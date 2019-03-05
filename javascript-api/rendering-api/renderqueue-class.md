@@ -1,9 +1,5 @@
 # RenderQueue 클래스
 
-## 구조
-
-**↳ RenderQueue**
-
 ## 목차
 
 ### 속성값
