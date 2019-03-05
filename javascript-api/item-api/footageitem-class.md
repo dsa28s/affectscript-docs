@@ -2,7 +2,7 @@
 
 ## 구조
 
-↳ [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md)
+↳ [AVItem](avitem-class.md)
 
 **↳ FootageItem**
 
@@ -10,42 +10,42 @@
 
 ### 속성값
 
-* [comment](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#comment)
-* [duration](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#duration)
-* [file](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#file)
-* [footageMissing](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#footagemissing)
-* [frameDuration](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#frameduration)
-* [frameRate](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#framerate)
-* [hasAudio](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#hasaudio)
-* [hasVideo](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#hasvideo)
-* [height](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#height)
-* [id](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#id)
-* [label](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#label)
-* [mainSource](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#mainsource)
-* [name](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#name)
-* [parentFolder](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#parentfolder)
-* [pixelAspect](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#pixelaspect)
-* [proxySource](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#proxysource)
-* [selected](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#selected)
-* [time](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#time)
-* [typeName](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#typename)
-* [useProxy](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#useproxy)
-* [usedIn](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#usedin)
-* [width](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#width)
+* [comment](footageitem-class.md#comment)
+* [duration](footageitem-class.md#duration)
+* [file](footageitem-class.md#file)
+* [footageMissing](footageitem-class.md#footagemissing)
+* [frameDuration](footageitem-class.md#frameduration)
+* [frameRate](footageitem-class.md#framerate)
+* [hasAudio](footageitem-class.md#hasaudio)
+* [hasVideo](footageitem-class.md#hasvideo)
+* [height](footageitem-class.md#height)
+* [id](footageitem-class.md#id)
+* [label](footageitem-class.md#label)
+* [mainSource](footageitem-class.md#mainsource)
+* [name](footageitem-class.md#name)
+* [parentFolder](footageitem-class.md#parentfolder)
+* [pixelAspect](footageitem-class.md#pixelaspect)
+* [proxySource](footageitem-class.md#proxysource)
+* [selected](footageitem-class.md#selected)
+* [time](footageitem-class.md#time)
+* [typeName](footageitem-class.md#typename)
+* [useProxy](footageitem-class.md#useproxy)
+* [usedIn](footageitem-class.md#usedin)
+* [width](footageitem-class.md#width)
 
 ### 사용 가능한 함수
 
-* [openInViewer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#openinviewer)
-* [remove](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#remove)
-* [replace](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#replace)
-* [replaceWithPlaceholder](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#replacewithplaceholder)
-* [replaceWithSequence](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#replacewithsequence)
-* [replaceWithSolid](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#replacewithsolid)
-* [setProxy](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#setproxy)
-* [setProxyToNone](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#setproxytonone)
-* [setProxyWithPlaceholder](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#setproxywithplaceholder)
-* [setProxyWithSequence](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#setproxywithsequence)
-* [setProxyWithSolid](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md#setproxywithsolid)
+* [openInViewer](footageitem-class.md#openinviewer)
+* [remove](footageitem-class.md#remove)
+* [replace](footageitem-class.md#replace)
+* [replaceWithPlaceholder](footageitem-class.md#replacewithplaceholder)
+* [replaceWithSequence](footageitem-class.md#replacewithsequence)
+* [replaceWithSolid](footageitem-class.md#replacewithsolid)
+* [setProxy](footageitem-class.md#setproxy)
+* [setProxyToNone](footageitem-class.md#setproxytonone)
+* [setProxyWithPlaceholder](footageitem-class.md#setproxywithplaceholder)
+* [setProxyWithSequence](footageitem-class.md#setproxywithsequence)
+* [setProxyWithSolid](footageitem-class.md#setproxywithsolid)
 
 ## 속성값
 
@@ -53,7 +53,7 @@
 
 **● comment**: `string`
 
-\_부모로부터 상속됨 : [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md).[comment](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#comment)\_
+\_부모로부터 상속됨 : [Item](item-class.md).[comment](item-class.md#comment)\_
 
 아이템에 대한 메모를 추가하거나 가져옵니다.
 
@@ -61,7 +61,7 @@
 
 **● duration**: `number`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[duration](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#duration)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[duration](avitem-class.md#duration)\_
 
 아이템의 길이를 가져옵니다. \(재생 시간\)
 
@@ -75,7 +75,7 @@
 
 **● footageMissing**: `boolean`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[footageMissing](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#footagemissing)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[footageMissing](avitem-class.md#footagemissing)\_
 
 아이템의 원본 파일이 없을 경우 true 가 반환됩니다.
 
@@ -83,7 +83,7 @@
 
 **● frameDuration**: `number`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[frameDuration](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#frameduration)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[frameDuration](avitem-class.md#frameduration)\_
 
 아이템의 프레임 수를 가져옵니다.
 
@@ -91,7 +91,7 @@
 
 **● frameRate**: `number`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[frameRate](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#framerate)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[frameRate](avitem-class.md#framerate)\_
 
 아이템의 초당 프레임 수를 가져옵니다.
 
@@ -99,7 +99,7 @@
 
 **● hasAudio**: `boolean`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[hasAudio](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#hasaudio)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[hasAudio](avitem-class.md#hasaudio)\_
 
 아이템의 오디오 레이어 여부를 가져옵니다.
 
@@ -107,7 +107,7 @@
 
 **● hasVideo**: `boolean`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[hasVideo](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#hasvideo)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[hasVideo](avitem-class.md#hasvideo)\_
 
 아이템의 비디오 레이어 여부를 가져옵니다.
 
@@ -115,7 +115,7 @@
 
 **● height**: `number`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[height](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#height)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[height](avitem-class.md#height)\_
 
 아이템의 세로 크기를 가져옵니다.
 
@@ -123,7 +123,7 @@
 
 **● id**: `number`
 
-\_부모로부터 상속됨 : [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md).[id](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#id)\_
+\_부모로부터 상속됨 : [Item](item-class.md).[id](item-class.md#id)\_
 
 아이템에 대한 ID를 가져옵니다.
 
@@ -131,13 +131,13 @@
 
 **● label**: `number`
 
-\_부모로부터 상속됨 : [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md).[label](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#label)\_
+\_부모로부터 상속됨 : [Item](item-class.md).[label](item-class.md#label)\_
 
 아이템에 대한 플래그 색깔을 설정하거나 가져옵니다. \(1 ~ 16까지 사용가능\)
 
 ### mainSource  <a id="mainsource"></a>
 
-**● mainSource**: \_[FootageSource](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/footagesource-class.md)\_
+**● mainSource**: \_[FootageSource](../footage-api/footagesource-class.md)\_
 
 푸티지가 어떤 종류인지 가져옵니다.
 
@@ -145,9 +145,9 @@
 
 **● name**: `string`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[name](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#name)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[name](avitem-class.md#name)\_
 
-\_Overrides [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md).[name](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#name)\_
+\_Overrides [Item](item-class.md).[name](item-class.md#name)\_
 
 아이템의 이름을 설정하거나 가져옵니다.
 
@@ -155,7 +155,7 @@
 
 **● parentFolder**: _\[FolderItem\]\(\_affectscript_.affectscriptapi.folderitem.md\)\_
 
-\_부모로부터 상속됨 : [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md).[parentFolder](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#parentfolder)\_
+\_부모로부터 상속됨 : [Item](item-class.md).[parentFolder](item-class.md#parentfolder)\_
 
 아이템이 들어가있는 부모 폴더를 설정하거나 가져옵니다.
 
@@ -163,19 +163,19 @@
 
 **● pixelAspect**: `number`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[pixelAspect](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#pixelaspect)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[pixelAspect](avitem-class.md#pixelaspect)\_
 
 ### proxySource  <a id="proxysource"></a>
 
-**● proxySource**: \_[FootageSource](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/footagesource-class.md)\_
+**● proxySource**: \_[FootageSource](../footage-api/footagesource-class.md)\_
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[proxySource](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#proxysource)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[proxySource](avitem-class.md#proxysource)\_
 
 ### selected  <a id="selected"></a>
 
 **● selected**: `boolean`
 
-\_부모로부터 상속됨 : [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md).[selected](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#selected)\_
+\_부모로부터 상속됨 : [Item](item-class.md).[selected](item-class.md#selected)\_
 
 아이템의 포커스 상태를 설정하거나 가져옵니다.
 
@@ -183,7 +183,7 @@
 
 **● time**: `number`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[time](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#time)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[time](avitem-class.md#time)\_
 
 아이템이 미리보기에 나오고 있을 경우, 현재 시간값을 가져옵니다. 미리보기에 나오고 있을 경우 현재 시간을 설정합니다.
 
@@ -191,7 +191,7 @@
 
 **● typeName**: `string`
 
-\_부모로부터 상속됨 : [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md).[typeName](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#typename)\_
+\_부모로부터 상속됨 : [Item](item-class.md).[typeName](item-class.md#typename)\_
 
 아이템의 종류를 문자열로 가져옵니다.
 
@@ -199,15 +199,15 @@
 
 **● useProxy**: `boolean`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[useProxy](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#useproxy)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[useProxy](avitem-class.md#useproxy)\_
 
 아이템의 프록시 사용 여부를 설정하거나 가져옵니다.
 
 ### usedIn  <a id="usedin"></a>
 
-**● usedIn**: \_[CompItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md)\[\]\_
+**● usedIn**: \_[CompItem](compitem-class.md)\[\]\_
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[usedIn](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#usedin)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[usedIn](avitem-class.md#usedin)\_
 
 아이템을 사용하고 있는 컴포지션 객체를 배열 형태로 가져옵니다.
 
@@ -215,7 +215,7 @@
 
 **● width**: `number`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[width](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#width)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[width](avitem-class.md#width)\_
 
 아이템의 가로 크기를 가져옵니다.
 
@@ -223,17 +223,17 @@
 
 ### openInViewer  <a id="openinviewer"></a>
 
-▸ **openInViewer**\(\): [Viewer](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/item-api/after-effects-api/viewer-class.md)
+▸ **openInViewer**\(\): [Viewer](../after-effects-api/viewer-class.md)
 
 해당 푸티지를 엽니다.
 
-**반환:** [Viewer](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/item-api/after-effects-api/viewer-class.md)
+**반환:** [Viewer](../after-effects-api/viewer-class.md)
 
 ### remove  <a id="remove"></a>
 
 ▸ **remove**\(\): `void`
 
-\_부모로부터 상속됨 : [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md).[remove](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#remove)\_
+\_부모로부터 상속됨 : [Item](item-class.md).[remove](item-class.md#remove)\_
 
 프로젝트에서 해당 아이템을 제거합니다. \(원본 파일은 유지됩니다.\)
 
@@ -294,7 +294,7 @@
 
 ▸ **setProxy**\(file: `File`\): `void`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[setProxy](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#setproxy)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[setProxy](avitem-class.md#setproxy)\_
 
 아이템에 프록시를 설정합니다.
 
@@ -308,7 +308,7 @@
 
 ▸ **setProxyToNone**\(\): `void`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[setProxyToNone](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#setproxytonone)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[setProxyToNone](avitem-class.md#setproxytonone)\_
 
 아이템에 프록시가 설정되어있다면 프록시 설정값을 없앱니다.
 
@@ -316,7 +316,7 @@
 
 ▸ **setProxyWithPlaceholder**\(name: `string`, width: `number`, height: `number`, frameRate: `number`, duration: `number`\): `void`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[setProxyWithPlaceholder](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#setproxywithplaceholder)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[setProxyWithPlaceholder](avitem-class.md#setproxywithplaceholder)\_
 
 **매개변수:**
 
@@ -332,7 +332,7 @@
 
 ▸ **setProxyWithSequence**\(file: `File`, forceAlphabetical: `boolean`\): `void`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[setProxyWithSequence](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#setproxywithsequence)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[setProxyWithSequence](avitem-class.md#setproxywithsequence)\_
 
 **매개변수:**
 
@@ -345,7 +345,7 @@
 
 ▸ **setProxyWithSolid**\(color: `number`_\[\]_, name: `string`, width: `number`, height: `number`, pixelAspect: `number`\): `void`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[setProxyWithSolid](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#setproxywithsolid)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[setProxyWithSolid](avitem-class.md#setproxywithsolid)\_
 
 **매개변수:**
 

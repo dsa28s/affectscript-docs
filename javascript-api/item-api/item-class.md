@@ -4,27 +4,27 @@
 
 **↳ Item**
 
-↳ [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md)
+↳ [AVItem](avitem-class.md)
 
-↳ [FolderItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/folderitem-class.md)
+↳ [FolderItem](folderitem-class.md)
 
-↳ [AfterEffectsItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/aftereffectsitem-class.md)
+↳ [AfterEffectsItem](../after-effects-api/aftereffectsitem-class.md)
 
 ## 목차
 
 ### 속성값
 
-* [comment](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#comment)
-* [id](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#id)
-* [label](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#label)
-* [name](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#name)
-* [parentFolder](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#parentfolder)
-* [selected](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#selected)
-* [typeName](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#typename)
+* [comment](item-class.md#comment)
+* [id](item-class.md#id)
+* [label](item-class.md#label)
+* [name](item-class.md#name)
+* [parentFolder](item-class.md#parentfolder)
+* [selected](item-class.md#selected)
+* [typeName](item-class.md#typename)
 
 ### 사용 가능한 함수
 
-* [remove](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#remove)
+* [remove](item-class.md#remove)
 
 ## 속성값
 
@@ -54,7 +54,7 @@
 
 ### parentFolder <a id="parentfolder"></a>
 
-**● parentFolder**: \_[FolderItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/folderitem-class.md)\_
+**● parentFolder**: \_[FolderItem](folderitem-class.md)\_
 
 아이템이 들어가있는 부모 폴더를 설정하거나 가져옵니다.
 
