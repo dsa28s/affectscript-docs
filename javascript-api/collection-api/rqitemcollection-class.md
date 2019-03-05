@@ -2,7 +2,7 @@
 
 ## 구조
 
-[Collection](../collection-api/collection-class.md)
+[Collection](collection-class.md)
 
 **↳ RQItemCollection**
 
@@ -10,13 +10,13 @@
 
 ### 사용 가능한 함수
 
-* [add](../collection-api/rqitemcollection-class.md#add)
+* [add](rqitemcollection-class.md#add)
 
 ## 사용 가능한 함수
 
-### add <a id="add"></a>
+### add  <a id="add"></a>
 
-▸ **add**\(comp: [`CompItem`](../item-api/compitem-class.md)\): [`RenderQueueItem`](../collection-api/renderqueueitem-class.md)
+▸ **add**\(comp: [`CompItem`](../item-api/compitem-class.md)\): [`RenderQueueItem`](renderqueueitem-class.md)
 
 컴포지션을 렌더링 대기열에 추가합니다.
 
@@ -26,5 +26,5 @@
 | :--- | :--- | :--- |
 | comp | [`CompItem`](../item-api/compitem-class.md) | 추가할 컴포지션입니다. |
 
-**반환:** [`RenderQueueItem`](../collection-api/renderqueueitem-class.md)
+**반환:** [`RenderQueueItem`](renderqueueitem-class.md)
 

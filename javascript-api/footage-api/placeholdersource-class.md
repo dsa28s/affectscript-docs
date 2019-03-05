@@ -30,7 +30,7 @@
 
 ## 속성값
 
-### alphaMode <a id="alphamode"></a>
+### alphaMode  <a id="alphamode"></a>
 
 **● alphaMode**: [`AlphaMode`](../etc/enum/_affectscript_.affectscriptapi.alphamode.md)
 
@@ -38,25 +38,25 @@ _부모로부터 상속됨 :_ [`FootageSource`](footagesource-class.md)_._[`alph
 
 푸티지의 알파 모드를 설정하거나 가져옵니다.
 
-### conformFrameRate <a id="conformframerate"></a>
+### conformFrameRate  <a id="conformframerate"></a>
 
 **● conformFrameRate**: `number`
 
 _부모로부터 상속됨 :_ [`FootageSource`](footagesource-class.md)_._[`conformFrameRate`](footagesource-class.md#conformframerate)
 
-### displayFrameRate <a id="displayframerate"></a>
+### displayFrameRate  <a id="displayframerate"></a>
 
 **● displayFrameRate**: `number`
 
 _부모로부터 상속됨 :_ [`FootageSource`](footagesource-class.md)_._[`displayFrameRate`](footagesource-class.md#displayframerate)
 
-### fieldSeparationType <a id="fieldseparationtype"></a>
+### fieldSeparationType  <a id="fieldseparationtype"></a>
 
 **● fieldSeparationType**: [`FieldSeparationType`](../etc/enum/_affectscript_.affectscriptapi.fieldseparationtype.md)
 
 _부모로부터 상속됨 :_ [`FootageSource`](footagesource-class.md)_._[`fieldSeparationType`](footagesource-class.md#fieldseparationtype)
 
-### hasAlpha <a id="hasalpha"></a>
+### hasAlpha  <a id="hasalpha"></a>
 
 **● hasAlpha**: `boolean`
 
@@ -64,13 +64,13 @@ _부모로부터 상속됨 :_ [`FootageSource`](footagesource-class.md)_._[`hasA
 
 해당 푸티지의 알파 채널 여부를 가져옵니다.
 
-### highQualityFieldSeparation <a id="highqualityfieldseparation"></a>
+### highQualityFieldSeparation  <a id="highqualityfieldseparation"></a>
 
 **● highQualityFieldSeparation**: `boolean`
 
 _부모로부터 상속됨 :_ [`FootageSource`](footagesource-class.md)_._[`highQualityFieldSeparation`](footagesource-class.md#highqualityfieldseparation)
 
-### invertAlpha <a id="invertalpha"></a>
+### invertAlpha  <a id="invertalpha"></a>
 
 **● invertAlpha**: `boolean`
 
@@ -78,7 +78,7 @@ _부모로부터 상속됨 :_ [`FootageSource`](footagesource-class.md)_._[`inve
 
 알파값 반전 여부를 설정하거나 가져옵니다.
 
-### isStill <a id="isstill"></a>
+### isStill  <a id="isstill"></a>
 
 **● isStill**: `boolean`
 
@@ -86,7 +86,7 @@ _부모로부터 상속됨 :_ [`FootageSource`](footagesource-class.md)_._[`isSt
 
 해당 푸티지를 프레임단위로 할지 설정하거나 가져옵니다. \(프레임단위 / 시간단위\)
 
-### loop <a id="loop"></a>
+### loop  <a id="loop"></a>
 
 **● loop**: `number`
 
@@ -94,7 +94,7 @@ _부모로부터 상속됨 :_ [`FootageSource`](footagesource-class.md)_._[`loop
 
 푸티지의 반복 횟수를 설정합니다. 기본값은 1 입니다. isStill 값이 true 라면 오류가 반환됩니다.
 
-### nativeFrameRate <a id="nativeframerate"></a>
+### nativeFrameRate  <a id="nativeframerate"></a>
 
 **● nativeFrameRate**: `number`
 
@@ -102,13 +102,13 @@ _부모로부터 상속됨 :_ [`FootageSource`](footagesource-class.md)_._[`nati
 
 해당 푸티지의 프레임 레이트를 설정하거나 가져옵니다.
 
-### premulColor <a id="premulcolor"></a>
+### premulColor  <a id="premulcolor"></a>
 
 **● premulColor**: `number`_\[\]_
 
 _부모로부터 상속됨 :_ [`FootageSource`](footagesource-class.md)_._[`premulColor`](footagesource-class.md#premulcolor)
 
-### removePulldown <a id="removepulldown"></a>
+### removePulldown  <a id="removepulldown"></a>
 
 **● removePulldown**: [`PulldownPhase`](../etc/class/pulldownphase-class.md)
 
@@ -116,7 +116,7 @@ _부모로부터 상속됨 :_ [`FootageSource`](footagesource-class.md)_._[`remo
 
 ## 사용 가능한 함수
 
-### guessAlphaMode <a id="guessalphamode"></a>
+### guessAlphaMode  <a id="guessalphamode"></a>
 
 ▸ **guessAlphaMode**\(\): `void`
 
@@ -124,7 +124,7 @@ _부모로부터 상속됨 :_ [`FootageSource`](footagesource-class.md)_._[`gues
 
 해당 푸티지에서 사용 가능한 최상의 설정값을 사용합니다.
 
-### guessPulldown <a id="guesspulldown"></a>
+### guessPulldown  <a id="guesspulldown"></a>
 
 ▸ **guessPulldown**\(method: [`PulldownMethod`](../etc/enum/_affectscript_.affectscriptapi.pulldownmethod.md)\): `void`
 

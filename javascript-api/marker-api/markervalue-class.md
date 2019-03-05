@@ -27,7 +27,7 @@
 
 ## 생성자
 
-### constructor <a id="constructor"></a>
+### constructor  <a id="constructor"></a>
 
 ⊕ **new MarkerValue**\(comment: `String`, chapter: `String`, url: `String`, frameTarget: `String`, curPointName: `String`, params: `Object`_\[\]_\): [MarkerValue](markervalue-class.md)
 
@@ -46,47 +46,47 @@
 
 ## 속성값
 
-### chapter <a id="chapter"></a>
+### chapter  <a id="chapter"></a>
 
 **● chapter**: `String`
 
-### comment <a id="comment"></a>
+### comment  <a id="comment"></a>
 
 **● comment**: `String`
 
 마커의 내용을 가져오거나 설정합니다.
 
-### cuePointName <a id="cuepointname"></a>
+### cuePointName  <a id="cuepointname"></a>
 
 **● cuePointName**: `String`
 
-### duration <a id="duration"></a>
+### duration  <a id="duration"></a>
 
 **● duration**: `number`
 
 마커가 나오는 위치를 가져오거나 설정합니다.
 
-### eventCuePoint <a id="eventcuepoint"></a>
+### eventCuePoint  <a id="eventcuepoint"></a>
 
 **● eventCuePoint**: `boolean`
 
-### frameTarget <a id="frametarget"></a>
+### frameTarget  <a id="frametarget"></a>
 
 **● frameTarget**: `String`
 
-### url <a id="url"></a>
+### url  <a id="url"></a>
 
 **● url**: `String`
 
 ## 사용 가능한 함수
 
-### getParameters <a id="getparameters"></a>
+### getParameters  <a id="getparameters"></a>
 
 ▸ **getParameters**\(\): `Object`
 
 **반환:** `Object`
 
-### setParameters <a id="setparameters"></a>
+### setParameters  <a id="setparameters"></a>
 
 ▸ **setParameters**\(\): `void`
 

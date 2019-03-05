@@ -15,7 +15,7 @@
 
 ## 사용 가능한 함수
 
-### addComp <a id="addcomp"></a>
+### addComp  <a id="addcomp"></a>
 
 ▸ **addComp**\(name: `string`, width: `number`, height: `number`, pixelAspect: `number`, duration: `number`, frameRate: `number`\): [`CompItem`](../item-api/compitem-class.md)
 
@@ -34,9 +34,9 @@
 
 **반환:** [`CompItem`](../item-api/compitem-class.md)
 
- ssssssss
+ssssssss
 
-### addFolder <a id="addfolder"></a>
+### addFolder  <a id="addfolder"></a>
 
 ▸ **addFolder**\(name: `string`\): [`FolderItem`](../item-api/folderitem-class.md)
 

@@ -42,7 +42,7 @@
 
 ## 속성값
 
-### active <a id="active"></a>
+### active  <a id="active"></a>
 
 **● active**: `boolean`
 
@@ -50,13 +50,13 @@
 
 해당 레이어의 가시성 여부를 가져옵니다.
 
-### canSetEnabled <a id="cansetenabled"></a>
+### canSetEnabled  <a id="cansetenabled"></a>
 
 **● canSetEnabled**: `boolean`
 
 [PropertyBase](propertybase-class.md).[canSetEnabled](propertybase-class.md#cansetenabled)\_
 
-### elided <a id="elided"></a>
+### elided  <a id="elided"></a>
 
 **● elided**: `boolean`
 
@@ -64,13 +64,13 @@
 
 레이어가 숨김 레이어인지 가져옵니다.
 
-### enabled <a id="enabled"></a>
+### enabled  <a id="enabled"></a>
 
 **● enabled**: `boolean`
 
 [PropertyBase](propertybase-class.md).[enabled](propertybase-class.md#enabled)\_
 
-### isEffect <a id="iseffect"></a>
+### isEffect  <a id="iseffect"></a>
 
 **● isEffect**: `boolean`
 
@@ -78,7 +78,7 @@
 
 속성값이 효과인지 여부를 가져옵니다.
 
-### isMask <a id="ismask"></a>
+### isMask  <a id="ismask"></a>
 
 **● isMask**: `boolean`
 
@@ -86,7 +86,7 @@
 
 속성값이 마스크인지 여부를 가져옵니다.
 
-### isModified <a id="ismodified"></a>
+### isModified  <a id="ismodified"></a>
 
 **● isModified**: `boolean`
 
@@ -94,13 +94,13 @@
 
 속성값이 수정되었는지 확인합니다.
 
-### matchName <a id="matchname"></a>
+### matchName  <a id="matchname"></a>
 
 **● matchName**: `String`
 
 [PropertyBase](propertybase-class.md).[matchName](propertybase-class.md#matchname)\_
 
-### name <a id="name"></a>
+### name  <a id="name"></a>
 
 **● name**: `String`
 
@@ -108,13 +108,13 @@
 
 속성값의 이름을 가져오거나 설정합니다.
 
-### numProperties <a id="numproperties"></a>
+### numProperties  <a id="numproperties"></a>
 
 **● numProperties**: `number`
 
 속성 그룹에 사용할 수 있는 속성의 개수를 가져옵니다.
 
-### parentProperty <a id="parentproperty"></a>
+### parentProperty  <a id="parentproperty"></a>
 
 **● parentProperty**: \_[PropertyGroup](propertygroup-class.md)\_
 
@@ -122,13 +122,13 @@
 
 해당 속성값이 어떤 속성 그룹에 포함되어있는지 가져옵니다.
 
-### propertyDepth <a id="propertydepth"></a>
+### propertyDepth  <a id="propertydepth"></a>
 
 **● propertyDepth**: `number`
 
 [PropertyBase](propertybase-class.md).[propertyDepth](propertybase-class.md#propertydepth)\_
 
-### propertyIndex <a id="propertyindex"></a>
+### propertyIndex  <a id="propertyindex"></a>
 
 **● propertyIndex**: `number`
 
@@ -136,15 +136,15 @@
 
 속성 값의 위치를 가져옵니다.
 
-### propertyType <a id="propertytype"></a>
+### propertyType  <a id="propertytype"></a>
 
-**● propertyType**: [PropertyType\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.propertytype.md)
+**● propertyType**: \[PropertyType\]\(/javascript-api/api/etc/enums/\_affectscript\_.affectscriptapi.propertytype.md\)
 
 [PropertyBase](propertybase-class.md).[propertyType](propertybase-class.md#propertytype)\_
 
 속성 값의 타입을 가져옵니다.
 
-### selected <a id="selected"></a>
+### selected  <a id="selected"></a>
 
 **● selected**: `boolean`
 
@@ -154,7 +154,7 @@
 
 ## 사용 가능한 함수들
 
-### addProperty <a id="addproperty"></a>
+### addProperty  <a id="addproperty"></a>
 
 ▸ **addProperty**\(name: `string`\): [Property](property-class.md)
 
@@ -168,7 +168,7 @@
 
 **반환:** [Property](property-class.md)
 
-### canAddProperty <a id="canaddproperty"></a>
+### canAddProperty  <a id="canaddproperty"></a>
 
 ▸ **canAddProperty**\(name: `string`\): `boolean`
 
@@ -182,7 +182,7 @@
 
 **반환:** `boolean`
 
-### duplicated <a id="duplicated"></a>
+### duplicated  <a id="duplicated"></a>
 
 ▸ **duplicated**\(\): [PropertyBase](propertybase-class.md)
 
@@ -192,7 +192,7 @@
 
 **반환:** [PropertyBase](propertybase-class.md)
 
-### moveTo <a id="moveto"></a>
+### moveTo  <a id="moveto"></a>
 
 ▸ **moveTo**\(newIndex: `number`\): `void`
 
@@ -204,7 +204,7 @@
 | :--- | :--- |
 | newIndex | `number` |
 
-### property <a id="property"></a>
+### property  <a id="property"></a>
 
 ▸ **property**\(param: `number` _\|_ `string`\): [Property](property-class.md)
 
@@ -220,7 +220,7 @@
 
 **반환:** [Property](property-class.md)
 
-### propertyGroup <a id="propertygroup"></a>
+### propertyGroup  <a id="propertygroup"></a>
 
 ▸ **propertyGroup**\(countUp?: `number`\): [PropertyGroup](propertygroup-class.md)
 
@@ -236,7 +236,7 @@
 
 **반환:** [PropertyGroup](propertygroup-class.md)
 
-### remove <a id="remove"></a>
+### remove  <a id="remove"></a>
 
 ▸ **remove**\(\): `any`
 

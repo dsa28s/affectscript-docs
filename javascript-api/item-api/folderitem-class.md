@@ -27,7 +27,7 @@
 
 ## 속성값
 
-### comment <a id="comment"></a>
+### comment  <a id="comment"></a>
 
 **● comment**: `string`
 
@@ -35,7 +35,7 @@
 
 아이템에 대한 메모를 추가하거나 가져옵니다.
 
-### id <a id="id"></a>
+### id  <a id="id"></a>
 
 **● id**: `number`
 
@@ -43,13 +43,13 @@
 
 아이템에 대한 ID를 가져옵니다.
 
-### items <a id="items"></a>
+### items  <a id="items"></a>
 
 **● items**: \_[ItemCollection](../collection-api/itemcollection-class.md)\_
 
 폴더 안에 있는 모든 아이템들을 가져옵니다.
 
-### label <a id="label"></a>
+### label  <a id="label"></a>
 
 **● label**: `number`
 
@@ -57,7 +57,7 @@
 
 아이템에 대한 플래그 색깔을 설정하거나 가져옵니다. \(1 ~ 16까지 사용가능\)
 
-### name <a id="name"></a>
+### name  <a id="name"></a>
 
 **● name**: `string`
 
@@ -65,13 +65,13 @@
 
 프로젝트 패널에 나오는 아이템 이름을 설정하거나 가져옵니다.
 
-### numItems <a id="numitems"></a>
+### numItems  <a id="numitems"></a>
 
 **● numItems**: `number`
 
 폴더 안에 있는 모든 아이템의 개수를 가져옵니다.
 
-### parentFolder <a id="parentfolder"></a>
+### parentFolder  <a id="parentfolder"></a>
 
 **● parentFolder**: \_[FolderItem](folderitem-class.md)\_
 
@@ -79,7 +79,7 @@
 
 아이템이 들어가있는 부모 폴더를 설정하거나 가져옵니다.
 
-### selected <a id="selected"></a>
+### selected  <a id="selected"></a>
 
 **● selected**: `boolean`
 
@@ -87,7 +87,7 @@
 
 아이템의 포커스 상태를 설정하거나 가져옵니다.
 
-### typeName <a id="typename"></a>
+### typeName  <a id="typename"></a>
 
 **● typeName**: `string`
 
@@ -97,7 +97,7 @@
 
 ## 사용 가능한 함수
 
-### item <a id="item"></a>
+### item  <a id="item"></a>
 
 ▸ **item**\(index: `number`\): [AfterEffectsItem](../after-effects-api/aftereffectsitem-class.md)
 
@@ -111,7 +111,7 @@
 
 **반환:** [AfterEffectsItem](../after-effects-api/aftereffectsitem-class.md)
 
-### remove <a id="remove"></a>
+### remove  <a id="remove"></a>
 
 ▸ **remove**\(\): `void`
 

@@ -14,19 +14,19 @@
 
 ## 속성값
 
-### active  <a id="active"></a>
+### active   <a id="active"></a>
 
 **● active**: `boolean`
 
 현재 뷰어가 활성화되어있는지 여부를 가져옵니다.
 
-### maximized  <a id="maximized"></a>
+### maximized   <a id="maximized"></a>
 
 **● maximized**: `boolean`
 
 뷰어 확장 여부를 가져오거나 설정합니다.
 
-### type  <a id="type"></a>
+### type   <a id="type"></a>
 
 **● type**: [`ViewerType`](../etc/enum/_affectscript_.affectscriptapi.viewertype.md)
 
@@ -34,7 +34,7 @@
 
 ## 사용 가능한 함수
 
-### setActive  <a id="setactive"></a>
+### setActive   <a id="setactive"></a>
 
 ▸ **setActive**\(\): `boolean`
 

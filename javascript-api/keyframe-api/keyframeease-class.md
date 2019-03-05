@@ -17,7 +17,7 @@
 
 ## 생성자
 
-### constructor <a id="constructor"></a>
+### constructor  <a id="constructor"></a>
 
 ⊕ **new KeyframeEase**\(speed: `number`, influence: `number`\): [KeyframeEase](keyframeease-class.md)
 
@@ -32,13 +32,13 @@
 
 ## 속성값
 
-### influence <a id="influence"></a>
+### influence  <a id="influence"></a>
 
 **● influence**: `number`
 
 키프레임의 기울기를 가져오거나 설정합니다. \(0.1 ~ 100\)
 
-### speed <a id="speed"></a>
+### speed  <a id="speed"></a>
 
 **● speed**: `number`
 

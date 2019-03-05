@@ -49,7 +49,7 @@
 
 ## 속성값
 
-### comment  <a id="comment"></a>
+### comment   <a id="comment"></a>
 
 **● comment**: `string`
 
@@ -57,7 +57,7 @@
 
 아이템에 대한 메모를 추가하거나 가져옵니다.
 
-### duration  <a id="duration"></a>
+### duration   <a id="duration"></a>
 
 **● duration**: `number`
 
@@ -65,13 +65,13 @@
 
 아이템의 길이를 가져옵니다. \(재생 시간\)
 
-### file  <a id="file"></a>
+### file   <a id="file"></a>
 
 **● file**: `File`
 
 푸티지의 원본 파일 객체를 가져옵니다.
 
-### footageMissing  <a id="footagemissing"></a>
+### footageMissing   <a id="footagemissing"></a>
 
 **● footageMissing**: `boolean`
 
@@ -79,7 +79,7 @@
 
 아이템의 원본 파일이 없을 경우 true 가 반환됩니다.
 
-### frameDuration  <a id="frameduration"></a>
+### frameDuration   <a id="frameduration"></a>
 
 **● frameDuration**: `number`
 
@@ -87,7 +87,7 @@
 
 아이템의 프레임 수를 가져옵니다.
 
-### frameRate  <a id="framerate"></a>
+### frameRate   <a id="framerate"></a>
 
 **● frameRate**: `number`
 
@@ -95,7 +95,7 @@
 
 아이템의 초당 프레임 수를 가져옵니다.
 
-### hasAudio  <a id="hasaudio"></a>
+### hasAudio   <a id="hasaudio"></a>
 
 **● hasAudio**: `boolean`
 
@@ -103,7 +103,7 @@
 
 아이템의 오디오 레이어 여부를 가져옵니다.
 
-### hasVideo  <a id="hasvideo"></a>
+### hasVideo   <a id="hasvideo"></a>
 
 **● hasVideo**: `boolean`
 
@@ -111,7 +111,7 @@
 
 아이템의 비디오 레이어 여부를 가져옵니다.
 
-### height  <a id="height"></a>
+### height   <a id="height"></a>
 
 **● height**: `number`
 
@@ -119,7 +119,7 @@
 
 아이템의 세로 크기를 가져옵니다.
 
-### id  <a id="id"></a>
+### id   <a id="id"></a>
 
 **● id**: `number`
 
@@ -127,7 +127,7 @@
 
 아이템에 대한 ID를 가져옵니다.
 
-### label  <a id="label"></a>
+### label   <a id="label"></a>
 
 **● label**: `number`
 
@@ -135,13 +135,13 @@
 
 아이템에 대한 플래그 색깔을 설정하거나 가져옵니다. \(1 ~ 16까지 사용가능\)
 
-### mainSource  <a id="mainsource"></a>
+### mainSource   <a id="mainsource"></a>
 
 **● mainSource**: \_[FootageSource](../footage-api/footagesource-class.md)\_
 
 푸티지가 어떤 종류인지 가져옵니다.
 
-### name  <a id="name"></a>
+### name   <a id="name"></a>
 
 **● name**: `string`
 
@@ -151,7 +151,7 @@
 
 아이템의 이름을 설정하거나 가져옵니다.
 
-### parentFolder  <a id="parentfolder"></a>
+### parentFolder   <a id="parentfolder"></a>
 
 **● parentFolder**: _\[FolderItem\]\(\_affectscript_.affectscriptapi.folderitem.md\)\_
 
@@ -159,19 +159,19 @@
 
 아이템이 들어가있는 부모 폴더를 설정하거나 가져옵니다.
 
-### pixelAspect  <a id="pixelaspect"></a>
+### pixelAspect   <a id="pixelaspect"></a>
 
 **● pixelAspect**: `number`
 
 \_부모로부터 상속됨 : [AVItem](avitem-class.md).[pixelAspect](avitem-class.md#pixelaspect)\_
 
-### proxySource  <a id="proxysource"></a>
+### proxySource   <a id="proxysource"></a>
 
 **● proxySource**: \_[FootageSource](../footage-api/footagesource-class.md)\_
 
 \_부모로부터 상속됨 : [AVItem](avitem-class.md).[proxySource](avitem-class.md#proxysource)\_
 
-### selected  <a id="selected"></a>
+### selected   <a id="selected"></a>
 
 **● selected**: `boolean`
 
@@ -179,7 +179,7 @@
 
 아이템의 포커스 상태를 설정하거나 가져옵니다.
 
-### time  <a id="time"></a>
+### time   <a id="time"></a>
 
 **● time**: `number`
 
@@ -187,7 +187,7 @@
 
 아이템이 미리보기에 나오고 있을 경우, 현재 시간값을 가져옵니다. 미리보기에 나오고 있을 경우 현재 시간을 설정합니다.
 
-### typeName  <a id="typename"></a>
+### typeName   <a id="typename"></a>
 
 **● typeName**: `string`
 
@@ -195,7 +195,7 @@
 
 아이템의 종류를 문자열로 가져옵니다.
 
-### useProxy  <a id="useproxy"></a>
+### useProxy   <a id="useproxy"></a>
 
 **● useProxy**: `boolean`
 
@@ -203,7 +203,7 @@
 
 아이템의 프록시 사용 여부를 설정하거나 가져옵니다.
 
-### usedIn  <a id="usedin"></a>
+### usedIn   <a id="usedin"></a>
 
 **● usedIn**: \_[CompItem](compitem-class.md)\[\]\_
 
@@ -211,7 +211,7 @@
 
 아이템을 사용하고 있는 컴포지션 객체를 배열 형태로 가져옵니다.
 
-### width  <a id="width"></a>
+### width   <a id="width"></a>
 
 **● width**: `number`
 
@@ -221,7 +221,7 @@
 
 ## 사용 가능한 함수
 
-### openInViewer  <a id="openinviewer"></a>
+### openInViewer   <a id="openinviewer"></a>
 
 ▸ **openInViewer**\(\): [Viewer](../after-effects-api/viewer-class.md)
 
@@ -229,7 +229,7 @@
 
 **반환:** [Viewer](../after-effects-api/viewer-class.md)
 
-### remove  <a id="remove"></a>
+### remove   <a id="remove"></a>
 
 ▸ **remove**\(\): `void`
 
@@ -237,7 +237,7 @@
 
 프로젝트에서 해당 아이템을 제거합니다. \(원본 파일은 유지됩니다.\)
 
-### replace  <a id="replace"></a>
+### replace   <a id="replace"></a>
 
 ▸ **replace**\(file: `File`\): `void`
 
@@ -249,7 +249,7 @@
 | :--- | :--- | :--- |
 | file | `File` | 바꿀 파일입니다. |
 
-### replaceWithPlaceholder  <a id="replacewithplaceholder"></a>
+### replaceWithPlaceholder   <a id="replacewithplaceholder"></a>
 
 ▸ **replaceWithPlaceholder**\(name: `string`, width: `number`, height: `number`, frameRate: `number`, duration: `number`\): `void`
 
@@ -263,7 +263,7 @@
 | frameRate | `number` |
 | duration | `number` |
 
-### replaceWithSequence  <a id="replacewithsequence"></a>
+### replaceWithSequence   <a id="replacewithsequence"></a>
 
 ▸ **replaceWithSequence**\(file: `File`, forceAlphabetical: `boolean`\): `void`
 
@@ -276,7 +276,7 @@
 | file | `File` | 바꿀 파일입니다. |
 | forceAlphabetical | `boolean` | 해당값을 \`true\` 할 경우, 파일명의 대/소문자를 무시합니다. |
 
-### replaceWithSolid  <a id="replacewithsolid"></a>
+### replaceWithSolid   <a id="replacewithsolid"></a>
 
 ▸ **replaceWithSolid**\(color: `number`_\[\]_, name: `string`, width: `number`, height: `number`, pixelAspect: `number`\): `void`
 
@@ -290,7 +290,7 @@
 | height | `number` |
 | pixelAspect | `number` |
 
-### setProxy  <a id="setproxy"></a>
+### setProxy   <a id="setproxy"></a>
 
 ▸ **setProxy**\(file: `File`\): `void`
 
@@ -304,7 +304,7 @@
 | :--- | :--- | :--- |
 | file | `File` | 프록시를 설정할 파일입니다. |
 
-### setProxyToNone  <a id="setproxytonone"></a>
+### setProxyToNone   <a id="setproxytonone"></a>
 
 ▸ **setProxyToNone**\(\): `void`
 
@@ -312,7 +312,7 @@
 
 아이템에 프록시가 설정되어있다면 프록시 설정값을 없앱니다.
 
-### setProxyWithPlaceholder  <a id="setproxywithplaceholder"></a>
+### setProxyWithPlaceholder   <a id="setproxywithplaceholder"></a>
 
 ▸ **setProxyWithPlaceholder**\(name: `string`, width: `number`, height: `number`, frameRate: `number`, duration: `number`\): `void`
 
@@ -328,7 +328,7 @@
 | frameRate | `number` |
 | duration | `number` |
 
-### setProxyWithSequence  <a id="setproxywithsequence"></a>
+### setProxyWithSequence   <a id="setproxywithsequence"></a>
 
 ▸ **setProxyWithSequence**\(file: `File`, forceAlphabetical: `boolean`\): `void`
 
@@ -341,7 +341,7 @@
 | file | `File` |
 | forceAlphabetical | `boolean` |
 
-### setProxyWithSolid  <a id="setproxywithsolid"></a>
+### setProxyWithSolid   <a id="setproxywithsolid"></a>
 
 ▸ **setProxyWithSolid**\(color: `number`_\[\]_, name: `string`, width: `number`, height: `number`, pixelAspect: `number`\): `void`
 
