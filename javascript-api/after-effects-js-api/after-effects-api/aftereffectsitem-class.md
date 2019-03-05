@@ -2,7 +2,9 @@
 
 ## 구조
 
-↳ [Item](../item-api/item-class.md)
+[Item](../item-api/item-class.md)
+
+↳ **AfterEffectsItem**
 
 ## 목차
 

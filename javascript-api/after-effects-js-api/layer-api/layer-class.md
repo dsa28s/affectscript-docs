@@ -2,11 +2,13 @@
 
 ## 구조
 
-**↳ Layer**
+**Layer**
 
 ↳ [AVLayer](avlayer-class.md)
 
 ↳ [CameraLayer](cameralayer-class.md)
+
+↳ [LightLayer](lightlayer-class.md)
 
 ## 목차
 

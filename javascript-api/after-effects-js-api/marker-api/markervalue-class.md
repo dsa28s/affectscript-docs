@@ -1,9 +1,5 @@
 # MarkerValue 클래스
 
-## 구조
-
-**↳ MarkerValue**
-
 ## 목차
 
 ### 생성자

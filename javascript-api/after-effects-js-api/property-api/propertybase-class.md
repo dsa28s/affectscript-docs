@@ -2,9 +2,13 @@
 
 ## 구조
 
-**↳ PropertyBase**
+**PropertyBase**
 
 ↳ [PropertyGroup](propertygroup-class.md)
+
+&nbsp;&nbsp;&nbsp;&nbsp;↳ [Property](property-class.md)
+
+&nbsp;&nbsp;&nbsp;&nbsp;↳ [MaskPropertyGroup](maskpropertygroup-class.md)
 
 ## 목차
 
