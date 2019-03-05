@@ -1,6 +1,6 @@
 # Table of contents
 
-* [After Effects Javascript API](after-effects-js-api/README.md)
+* [README](README.md)
 * [문법](undefined.md)
 * [일반 Javascript API](javascript-api.md)
 * [IDE 설치하기](ide.md)
