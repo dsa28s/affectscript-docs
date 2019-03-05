@@ -2,13 +2,13 @@
 
 ## 관계
 
-↳ [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md)
+[Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md)
 
 **↳ AVItem**
 
-↳ [CompItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md)
+&nbsp;&nbsp;&nbsp;&nbsp;↳ [CompItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md)
 
-↳ [FootageItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md)
+&nbsp;&nbsp;&nbsp;&nbsp;↳ [FootageItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md)
 
 ## 목차
 

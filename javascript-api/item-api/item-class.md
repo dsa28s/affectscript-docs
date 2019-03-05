@@ -2,13 +2,15 @@
 
 ## 구조
 
-**↳ Item**
+**Item**
 
 ↳ [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md)
 
-↳ [FolderItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/folderitem-class.md)
+&nbsp;&nbsp;&nbsp;&nbsp;↳ [CompItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md)
 
-↳ [AfterEffectsItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/aftereffectsitem-class.md)
+&nbsp;&nbsp;&nbsp;&nbsp;↳ [FootageItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md)
+
+↳ [FolderItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/folderitem-class.md)
 
 ## 목차
 
