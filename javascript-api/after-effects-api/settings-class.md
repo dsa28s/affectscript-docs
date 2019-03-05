@@ -4,13 +4,13 @@
 
 ### 사용 가능한 함수
 
-* [getSetting](after-effects-api/settings-class.md#getsetting)
-* [haveSetting](after-effects-api/settings-class.md#havesetting)
-* [saveSetting](after-effects-api/settings-class.md#savesetting)
+* [getSetting](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/after-effects-api/after-effects-api/settings-class.md#getsetting)
+* [haveSetting](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/after-effects-api/after-effects-api/settings-class.md#havesetting)
+* [saveSetting](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/after-effects-api/after-effects-api/settings-class.md#savesetting)
 
 ## 사용 가능한 함수
 
-### getSetting <a id="getsetting"></a>
+### getSetting  <a id="getsetting"></a>
 
 ▸ **getSetting**\(sectionName: `string`, keyName: `string`\): `string`
 
@@ -27,7 +27,7 @@ After Effects의 설정값을 가져옵니다.
 
 **반환:** `string`
 
-### haveSetting <a id="havesetting"></a>
+### haveSetting  <a id="havesetting"></a>
 
 ▸ **haveSetting**\(sectionName: `string`, keyName: `string`\): `boolean`
 
@@ -44,7 +44,7 @@ After Effects에서 설정값이 있는지 가져옵니다.
 
 **반환:** `boolean`
 
-### saveSetting <a id="savesetting"></a>
+### saveSetting  <a id="savesetting"></a>
 
 ▸ **saveSetting**\(sectionName: `string`, keyName: `string`, value: `string`\): `void`
 
