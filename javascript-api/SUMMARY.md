@@ -2,6 +2,7 @@
 
 * [After Effects Javascript API](README.md)
 * [After Effects 컨트롤 API](after-effects-api/README.md)
+  * [AfterEffectsItem 클래스](after-effects-api/aftereffectsitem-class.md)
   * [Application 클래스](after-effects-api/application-class.md)
   * [Settings 클래스](after-effects-api/settings-class.md)
   * [System 클래스](after-effects-api/system-class.md)
@@ -16,7 +17,6 @@
   * [ShapeLayer 클래스](layer-api/shapelayer-class.md)
   * [TextLayer 클래스](layer-api/textlayer-class.md)
 * [아이템 API](item-api/README.md)
-  * [AfterEffectsItem 클래스](item-api/aftereffectsitem-class.md)
   * [Item 클래스](item-api/item-class.md)
   * [AVItem 클래스](item-api/avitem-class.md)
   * [CompItem 클래스](item-api/compitem-class.md)
