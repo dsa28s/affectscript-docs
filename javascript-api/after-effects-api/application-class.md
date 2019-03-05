@@ -56,7 +56,7 @@
 
 ### activeViewer  <a id="activeviewer"></a>
 
-**● activeViewer**: [`Viewer`](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/after-effects-api/after-effects-api/viewer-class.md)
+**● activeViewer**: [`Viewer`](viewer-class.md)
 
 현재 활성화 된 뷰어 객체를 가져옵니다.
 
@@ -74,7 +74,7 @@ After Effects의 빌드번호를 가져옵니다.
 
 ### effects  <a id="effects"></a>
 
-**● effects**: [`EffectsType`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/classes/effectstype-class.md)\[\]
+**● effects**: [`EffectsType`](../etc/class/effectstype-class.md)\[\]
 
 After Effects에서 사용가능한 효과들을 가져옵니다.
 
@@ -122,7 +122,7 @@ After Effects가 차지하는 메모리 용량을 가져옵니다. \(바이트\_
 
 ### project  <a id="project"></a>
 
-**● project**: [`Project`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md)
+**● project**: [`Project`](../project-api/project-class.md)
 
 현재 열려있는 프로젝트 객체를 반환합니다.
 
@@ -134,7 +134,7 @@ After Effects가 비정상적으로 종료되었을 때 현재 열려있는 프�
 
 ### settings  <a id="settings"></a>
 
-**● settings**: [`Settings`](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/after-effects-api/after-effects-api/settings-class.md)
+**● settings**: [`Settings`](settings-class.md)
 
 현재 로드된 환경설정 값을 객체로 가져옵니다.
 
@@ -208,15 +208,15 @@ beginUndoGroup\(\) 함수로부터 실행된 '실행한 시점부터 endUndoGrou
 
 ### newProjectß  <a id="newproject"></a>
 
-▸ **newProject**\(\): [`Project`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md)
+▸ **newProject**\(\): [`Project`](../project-api/project-class.md)
 
 새로운 프로젝트를 생성합니다. \(현재 프로젝트를 닫는 메소드 close\(\)를 먼저 사용하세요\)
 
-**반환:** [`Project`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md)
+**반환:** [`Project`](../project-api/project-class.md)
 
 ### open  <a id="open"></a>
 
-▸ **open**\(file?: `File`\): [`Project`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md)
+▸ **open**\(file?: `File`\): [`Project`](../project-api/project-class.md)
 
 프로젝트 파일을 엽니다.
 
@@ -226,11 +226,11 @@ beginUndoGroup\(\) 함수로부터 실행된 '실행한 시점부터 endUndoGrou
 | :--- | :--- | :--- |
 | `Optional` file | `File` | 해당 변수에 아무것도 넣지 않을경우 프로젝트 파일 선택 화면이 나오고, 변수에 프로젝트 위치를 넣을 경우 해당 프로젝트를 엽니다. |
 
-**반환:** [`Project`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md)
+**반환:** [`Project`](../project-api/project-class.md)
 
 ### parseSwatchFile  <a id="parseswatchfile"></a>
 
-▸ **parseSwatchFile**\(file: `File`\): [`SwatchData`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/classes/swatchdata-class.md)
+▸ **parseSwatchFile**\(file: `File`\): [`SwatchData`](../etc/class/swatchdata-class.md)
 
 Adobe Swatch Exchange \(\*.ase\) 파일을 엽니다.
 
@@ -240,7 +240,7 @@ Adobe Swatch Exchange \(\*.ase\) 파일을 엽니다.
 | :--- | :--- | :--- |
 | file | `File` | ase 파일의 경로입니다. |
 
-**반환:** [`SwatchData`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/classes/swatchdata-class.md)
+**반환:** [`SwatchData`](../etc/class/swatchdata-class.md)
 
 ### pauseWatchFolder  <a id="pausewatchfolder"></a>
 
@@ -256,7 +256,7 @@ Adobe Swatch Exchange \(\*.ase\) 파일을 엽니다.
 
 ### purge  <a id="purge"></a>
 
-▸ **purge**\(target: [`PurgeTarget`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/enums/_affectscript_.affectscriptapi.purgetarget.md)\): `void`
+▸ **purge**\(target: [`PurgeTarget`](../etc/enum/_affectscript_.affectscriptapi.purgetarget.md)\): `void`
 
 캐시 파일을 지웁니다.
 
@@ -264,7 +264,7 @@ Adobe Swatch Exchange \(\*.ase\) 파일을 엽니다.
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| target | [`PurgeTarget`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/enums/_affectscript_.affectscriptapi.purgetarget.md) | 지울 캐시파일 종류입니다. |
+| target | [`PurgeTarget`](../etc/enum/_affectscript_.affectscriptapi.purgetarget.md) | 지울 캐시파일 종류입니다. |
 
 ### quit  <a id="quit"></a>
 

@@ -4,13 +4,13 @@
 
 ### 속성값
 
-* [active](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/after-effects-api/after-effects-api/viewer-class.md#active)
-* [maximized](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/after-effects-api/after-effects-api/viewer-class.md#maximized)
-* [type](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/after-effects-api/after-effects-api/viewer-class.md#type)
+* [active](viewer-class.md#active)
+* [maximized](viewer-class.md#maximized)
+* [type](viewer-class.md#type)
 
 ### 사용 가능한 함수
 
-* [setActive](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/after-effects-api/after-effects-api/viewer-class.md#setactive)
+* [setActive](viewer-class.md#setactive)
 
 ## 속성값
 
@@ -28,7 +28,7 @@
 
 ### type  <a id="type"></a>
 
-**● type**: [`ViewerType`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/enums/_affectscript_.affectscriptapi.viewertype.md)
+**● type**: [`ViewerType`](../etc/enum/_affectscript_.affectscriptapi.viewertype.md)
 
 현재 뷰어의 종류를 가져옵니다.
 

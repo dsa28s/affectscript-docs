@@ -4,14 +4,14 @@
 
 ### 속성값퍄
 
-* [machineName](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/after-effects-api/after-effects-api/system-class.md#machinename)
-* [osName](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/after-effects-api/after-effects-api/system-class.md#osname)
-* [osVersion](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/after-effects-api/after-effects-api/system-class.md#osversion)
-* [userName](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/after-effects-api/after-effects-api/system-class.md#username)
+* [machineName](system-class.md#machinename)
+* [osName](system-class.md#osname)
+* [osVersion](system-class.md#osversion)
+* [userName](system-class.md#username)
 
 ### 사용 가능한 함수
 
-* [callSystem](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/after-effects-api/after-effects-api/system-class.md#callsystem)
+* [callSystem](system-class.md#callsystem)
 
 ## 속성값
 
