@@ -4,34 +4,34 @@
 
 **↳ PropertyBase**
 
-↳ [PropertyGroup](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertygroup-class.md)
+↳ [PropertyGroup](propertygroup-class.md)
 
 ## 목차
 
 ### 속성값
 
-* [active](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#active)
-* [canSetEnabled](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#cansetenabled)
-* [elided](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#elided)
-* [enabled](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#enabled)
-* [isEffect](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#iseffect)
-* [isMask](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#ismask)
-* [isModified](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#ismodified)
-* [matchName](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#matchname)
-* [name](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#name)
-* [parentProperty](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#parentproperty)
-* [propertyDepth](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#propertydepth)
-* [propertyIndex](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#propertyindex)
-* [propertyType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#propertytype)
-* [selected](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#selected)
+* [active](propertybase-class.md#active)
+* [canSetEnabled](propertybase-class.md#cansetenabled)
+* [elided](propertybase-class.md#elided)
+* [enabled](propertybase-class.md#enabled)
+* [isEffect](propertybase-class.md#iseffect)
+* [isMask](propertybase-class.md#ismask)
+* [isModified](propertybase-class.md#ismodified)
+* [matchName](propertybase-class.md#matchname)
+* [name](propertybase-class.md#name)
+* [parentProperty](propertybase-class.md#parentproperty)
+* [propertyDepth](propertybase-class.md#propertydepth)
+* [propertyIndex](propertybase-class.md#propertyindex)
+* [propertyType](propertybase-class.md#propertytype)
+* [selected](propertybase-class.md#selected)
 
 ### 사용 가능한 함수
 
-* [duplicated](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#duplicated)
-* [moveTo](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#moveto)
-* [property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#property)
-* [propertyGroup](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#propertygroup)
-* [remove](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#remove)
+* [duplicated](propertybase-class.md#duplicated)
+* [moveTo](propertybase-class.md#moveto)
+* [property](propertybase-class.md#property)
+* [propertyGroup](propertybase-class.md#propertygroup)
+* [remove](propertybase-class.md#remove)
 
 ## 속성값
 
@@ -85,7 +85,7 @@
 
 ### parentProperty <a id="parentproperty"></a>
 
-**● parentProperty**: \_[PropertyGroup](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertygroup-class.md)\_
+**● parentProperty**: \_[PropertyGroup](propertygroup-class.md)\_
 
 해당 속성값이 어떤 속성 그룹에 포함되어있는지 가져옵니다.
 
@@ -101,7 +101,7 @@
 
 ### propertyType <a id="propertytype"></a>
 
-**● propertyType**: _\[PropertyType\]\(../enums/\_affectscript_.affectscriptapi.propertytype.md\)\_
+**● propertyType**: [PropertyType](../etc/enum/_affectscript_.affectscriptapi.propertytype.md)
 
 속성 값의 타입을 가져옵니다.
 
@@ -115,11 +115,11 @@
 
 ### duplicated <a id="duplicated"></a>
 
-▸ **duplicated**\(\): [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md)
+▸ **duplicated**\(\): [PropertyBase](propertybase-class.md)
 
 설정값을 복제합니다.
 
-**반환:** [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md)
+**반환:** [PropertyBase](propertybase-class.md)
 
 ### moveTo <a id="moveto"></a>
 
@@ -133,7 +133,7 @@
 
 ### property <a id="property"></a>
 
-▸ **property**\(param: `number` _\|_ `string`\): [Property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md)
+▸ **property**\(param: `number` _\|_ `string`\): [Property](property-class.md)
 
 속성 값을 가져옵니다.
 
@@ -143,11 +143,11 @@
 | :--- | :--- | :--- |
 | param | `number` \| `string` | 가져올 속성값입니다. |
 
-**반환:** [Property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md)
+**반환:** [Property](property-class.md)
 
 ### propertyGroup <a id="propertygroup"></a>
 
-▸ **propertyGroup**\(countUp?: `number`\): [PropertyGroup](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertygroup-class.md)
+▸ **propertyGroup**\(countUp?: `number`\): [PropertyGroup](propertygroup-class.md)
 
 속성 값의 그룹 데이터를 가져옵니다.
 
@@ -157,7 +157,7 @@
 | :--- | :--- | :--- |
 | `Optional` countUp | `number` | 옵션값입니다. 상위 계층을 얼만큼 거슬러 올라갈지 입니다. |
 
-**반환:** [PropertyGroup](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertygroup-class.md)
+**반환:** [PropertyGroup](propertygroup-class.md)
 
 ### remove <a id="remove"></a>
 

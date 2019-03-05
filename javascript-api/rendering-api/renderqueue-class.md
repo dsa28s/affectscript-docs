@@ -8,23 +8,23 @@
 
 ### 속성값
 
-* [items](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/render/renderqueue-class.md#items)
-* [numItems](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/render/renderqueue-class.md#numitems)
-* [rendering](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/render/renderqueue-class.md#rendering)
+* [items](renderqueue-class.md#items)
+* [numItems](renderqueue-class.md#numitems)
+* [rendering](renderqueue-class.md#rendering)
 
 ### 사용 가능한 함수
 
-* [item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/render/renderqueue-class.md#item)
-* [pauseRendering](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/render/renderqueue-class.md#pauserendering)
-* [render](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/render/renderqueue-class.md#render)
-* [showWindow](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/render/renderqueue-class.md#showwindow)
-* [stopRendering](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/render/renderqueue-class.md#stoprendering)
+* [item](renderqueue-class.md#item)
+* [pauseRendering](renderqueue-class.md#pauserendering)
+* [render](renderqueue-class.md#render)
+* [showWindow](renderqueue-class.md#showwindow)
+* [stopRendering](renderqueue-class.md#stoprendering)
 
 ## 속성값
 
 ### items <a id="items"></a>
 
-**● items**: \_[RQItemCollection](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/collection/rqitemcollection-class.md)\_
+**● items**: \_[RQItemCollection](../collection-api/rqitemcollection-class.md)\_
 
 렌더링 대기열의 모든 항목을 가져옵니다.
 
@@ -44,7 +44,7 @@
 
 ### item <a id="item"></a>
 
-▸ **item**\(index: `number`\): [RenderQueueItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/collection/renderqueueitem-class.md)
+▸ **item**\(index: `number`\): [RenderQueueItem](../collection-api/renderqueueitem-class.md)
 
 렌더링 대기열의 항목을 가져옵니다.
 
@@ -54,7 +54,7 @@
 | :--- | :--- | :--- |
 | index | `number` | 가져올 항목입니다. |
 
-**반환:** [RenderQueueItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/collection/renderqueueitem-class.md)
+**반환:** [RenderQueueItem](../collection-api/renderqueueitem-class.md)
 
 ### pauseRendering <a id="pauserendering"></a>
 

@@ -8,18 +8,18 @@
 
 ### 생성자
 
-* [constructor](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/keyframe/keyframeease-class.md#constructor)
+* [constructor](keyframeease-class.md#constructor)
 
 ### 속성값
 
-* [influence](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/keyframe/keyframeease-class.md#influence)
-* [speed](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/keyframe/keyframeease-class.md#speed)
+* [influence](keyframeease-class.md#influence)
+* [speed](keyframeease-class.md#speed)
 
 ## 생성자
 
 ### constructor <a id="constructor"></a>
 
-⊕ **new KeyframeEase**\(speed: `number`, influence: `number`\): [KeyframeEase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/keyframe/keyframeease-class.md)
+⊕ **new KeyframeEase**\(speed: `number`, influence: `number`\): [KeyframeEase](keyframeease-class.md)
 
 **매개변수:**
 
@@ -28,7 +28,7 @@
 | speed | `number` |
 | influence | `number` |
 
-**반환:** [KeyframeEase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/keyframe/keyframeease-class.md)
+**반환:** [KeyframeEase](keyframeease-class.md)
 
 ## 속성값
 
