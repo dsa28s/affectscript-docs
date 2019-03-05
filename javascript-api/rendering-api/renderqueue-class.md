@@ -22,19 +22,19 @@
 
 ## 속성값
 
-### items <a id="items"></a>
+### items  <a id="items"></a>
 
 **● items**: \_[RQItemCollection](../collection-api/rqitemcollection-class.md)\_
 
 렌더링 대기열의 모든 항목을 가져옵니다.
 
-### numItems <a id="numitems"></a>
+### numItems  <a id="numitems"></a>
 
 **● numItems**: `number`
 
 렌더링 대기열애 있는 항목의 개수를 가져옵니다.
 
-### rendering <a id="rendering"></a>
+### rendering  <a id="rendering"></a>
 
 **● rendering**: `boolean`
 
@@ -42,7 +42,7 @@
 
 ## 사용 가능한 함수
 
-### item <a id="item"></a>
+### item  <a id="item"></a>
 
 ▸ **item**\(index: `number`\): [RenderQueueItem](../collection-api/renderqueueitem-class.md)
 
@@ -56,7 +56,7 @@
 
 **반환:** [RenderQueueItem](../collection-api/renderqueueitem-class.md)
 
-### pauseRendering <a id="pauserendering"></a>
+### pauseRendering  <a id="pauserendering"></a>
 
 ▸ **pauseRendering**\(pause: `boolean`\): `void`
 
@@ -68,17 +68,17 @@
 | :--- | :--- | :--- |
 | pause | `boolean` | true일 경우 일시중지됩니다. |
 
-### render <a id="render"></a>
+### render  <a id="render"></a>
 
 ▸ **render**\(\): `void`
 
 렌더링합니다.
 
-### showWindow <a id="showwindow"></a>
+### showWindow  <a id="showwindow"></a>
 
 ▸ **showWindow**\(\): `void`
 
-### stopRendering <a id="stoprendering"></a>
+### stopRendering  <a id="stoprendering"></a>
 
 ▸ **stopRendering**\(\): `void`
 

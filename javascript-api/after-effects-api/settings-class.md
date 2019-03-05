@@ -10,7 +10,7 @@
 
 ## 사용 가능한 함수
 
-### getSetting  <a id="getsetting"></a>
+### getSetting   <a id="getsetting"></a>
 
 ▸ **getSetting**\(sectionName: `string`, keyName: `string`\): `string`
 
@@ -27,7 +27,7 @@ After Effects의 설정값을 가져옵니다.
 
 **반환:** `string`
 
-### haveSetting  <a id="havesetting"></a>
+### haveSetting   <a id="havesetting"></a>
 
 ▸ **haveSetting**\(sectionName: `string`, keyName: `string`\): `boolean`
 
@@ -44,7 +44,7 @@ After Effects에서 설정값이 있는지 가져옵니다.
 
 **반환:** `boolean`
 
-### saveSetting  <a id="savesetting"></a>
+### saveSetting   <a id="savesetting"></a>
 
 ▸ **saveSetting**\(sectionName: `string`, keyName: `string`, value: `string`\): `void`
 

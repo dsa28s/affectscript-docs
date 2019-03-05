@@ -23,7 +23,7 @@
 
 ## 사용 가능한 함수
 
-### add <a id="add"></a>
+### add  <a id="add"></a>
 
 ▸ **add**\(item: [_AVItem_](../item-api/avitem-class.md), duration?: `number`\): [`AVLayer`](../layer-api/avlayer-class.md)
 
@@ -38,7 +38,7 @@
 
 **반환:** [`AVLayer`](../layer-api/avlayer-class.md)
 
-### addBoxText <a id="addboxtext"></a>
+### addBoxText  <a id="addboxtext"></a>
 
 ▸ **addBoxText**\(sourceText?: `string`\): [`TextLayer`](../layer-api/textlayer-class.md)
 
@@ -52,7 +52,7 @@
 
 **반환:** [`TextLayer`](../layer-api/textlayer-class.md)
 
-### addCamera <a id="addcamera"></a>
+### addCamera  <a id="addcamera"></a>
 
 ▸ **addCamera**\(name: `string`, centerPoint: `number`_\[\]_\): [`CameraLayer`](../layer-api/cameralayer-class.md)
 
@@ -67,7 +67,7 @@
 
 **반환:** [`CameraLayer`](../layer-api/cameralayer-class.md)
 
-### addLight <a id="addlight"></a>
+### addLight  <a id="addlight"></a>
 
 ▸ **addLight**\(name: `string`, centerPoint: `number`_\[\]_\): [`LightLayer`](../layer-api/lightlayer-class.md)
 
@@ -82,7 +82,7 @@
 
 **반환:** [`LightLayer`](../layer-api/lightlayer-class.md)
 
-### addNull <a id="addnull"></a>
+### addNull  <a id="addnull"></a>
 
 ▸ **addNull**\(duration?: `number`\): [`AVLayer`](../layer-api/avlayer-class.md)
 
@@ -96,7 +96,7 @@ Null 레이어를 추가합니다.
 
 **반환:** [`AVLayer`](../layer-api/avlayer-class.md)
 
-### addShape <a id="addshape"></a>
+### addShape  <a id="addshape"></a>
 
 ▸ **addShape**\(\): [`ShapeLayer`](../layer-api/shapelayer-class.md)
 
@@ -104,7 +104,7 @@ Null 레이어를 추가합니다.
 
 **반환:** [`ShapeLayer`](../layer-api/shapelayer-class.md)
 
-### addSolid <a id="addsolid"></a>
+### addSolid  <a id="addsolid"></a>
 
 ▸ **addSolid**\(color: `number`_\[\]_, name: `string`, width: `number`, height: `number`, pixelAspect: `number`, duration?: `number`\): [`AVLayer`](../layer-api/avlayer-class.md)
 
@@ -123,7 +123,7 @@ Null 레이어를 추가합니다.
 
 **반환:** [`AVLayer`](../layer-api/avlayer-class.md)
 
-### addText <a id="addtext"></a>
+### addText  <a id="addtext"></a>
 
 ▸ **addText**\(sourceText: `string`\): [`TextLayer`](../layer-api/textlayer-class.md)
 
@@ -137,7 +137,7 @@ Null 레이어를 추가합니다.
 
 **반환:** [`TextLayer`](../layer-api/textlayer-class.md)
 
-### byName <a id="byname"></a>
+### byName  <a id="byname"></a>
 
 ▸ **byName**\(name: `string`\): [`Layer`](../layer-api/layer-class.md)
 
@@ -151,7 +151,7 @@ Null 레이어를 추가합니다.
 
 **반환:** [`Layer`](../layer-api/layer-class.md)
 
-### precompose <a id="precompose"></a>
+### precompose  <a id="precompose"></a>
 
 ▸ **precompose**\(layerIndicies: `number`_\[\]_, name: `string`, moveAllAttributes: `boolean`\): [`CompItem`](../item-api/compitem-class.md)
 

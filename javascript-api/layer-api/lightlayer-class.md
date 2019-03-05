@@ -18,7 +18,7 @@
 
 ## 속성값
 
-### lightType <a id="lighttype"></a>
+### lightType  <a id="lighttype"></a>
 
 **● lightType**: [LightType](../etc/enum/_affectscript_.affectscriptapi.lighttype.md)
 
