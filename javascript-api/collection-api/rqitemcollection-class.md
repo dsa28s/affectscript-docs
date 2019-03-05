@@ -2,7 +2,7 @@
 
 ## 구조
 
-[Collection](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/collection/collection-class.md)
+[Collection](../collection-api/collection-class.md)
 
 **↳ RQItemCollection**
 
@@ -10,13 +10,13 @@
 
 ### 사용 가능한 함수
 
-* [add](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/collection/rqitemcollection-class.md#add)
+* [add](../collection-api/rqitemcollection-class.md#add)
 
 ## 사용 가능한 함수
 
 ### add <a id="add"></a>
 
-▸ **add**\(comp: [`CompItem`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md)\): [`RenderQueueItem`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/collection/renderqueueitem-class.md)
+▸ **add**\(comp: [`CompItem`](../item-api/compitem-class.md)\): [`RenderQueueItem`](../collection-api/renderqueueitem-class.md)
 
 컴포지션을 렌더링 대기열에 추가합니다.
 
@@ -24,7 +24,7 @@
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| comp | [`CompItem`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md) | 추가할 컴포지션입니다. |
+| comp | [`CompItem`](../item-api/compitem-class.md) | 추가할 컴포지션입니다. |
 
-**반환:** [`RenderQueueItem`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/collection/renderqueueitem-class.md)
+**반환:** [`RenderQueueItem`](../collection-api/renderqueueitem-class.md)
 

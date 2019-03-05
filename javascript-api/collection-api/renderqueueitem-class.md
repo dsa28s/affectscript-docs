@@ -2,7 +2,7 @@
 
 ## 구조
 
-[Collection](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/collection-class.md)
+[Collection](collection-class.md)
 
 **↳ RenderQueueItem**
 
@@ -10,32 +10,32 @@
 
 ### 속성값
 
-* [comp](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/renderqueueitem-class.md#comp)
-* [elapsedSeconds](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/renderqueueitem-class.md#elapsedseconds)
-* [logType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/renderqueueitem-class.md#logtype)
-* [numOutputModules](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/renderqueueitem-class.md#numoutputmodules)
-* [onStatusChanged](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/renderqueueitem-class.md#onstatuschanged)
-* [outputModules](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/renderqueueitem-class.md#outputmodules)
-* [render](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/renderqueueitem-class.md#render)
-* [skipFrames](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/renderqueueitem-class.md#skipframes)
-* [startTime](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/renderqueueitem-class.md#starttime)
-* [status](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/renderqueueitem-class.md#status)
-* [templates](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/renderqueueitem-class.md#templates)
-* [timeSpanDuration](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/renderqueueitem-class.md#timespanduration)
-* [timeSpanStart](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/renderqueueitem-class.md#timespanstart)
+* [comp](renderqueueitem-class.md#comp)
+* [elapsedSeconds](renderqueueitem-class.md#elapsedseconds)
+* [logType](renderqueueitem-class.md#logtype)
+* [numOutputModules](renderqueueitem-class.md#numoutputmodules)
+* [onStatusChanged](renderqueueitem-class.md#onstatuschanged)
+* [outputModules](renderqueueitem-class.md#outputmodules)
+* [render](renderqueueitem-class.md#render)
+* [skipFrames](renderqueueitem-class.md#skipframes)
+* [startTime](renderqueueitem-class.md#starttime)
+* [status](renderqueueitem-class.md#status)
+* [templates](renderqueueitem-class.md#templates)
+* [timeSpanDuration](renderqueueitem-class.md#timespanduration)
+* [timeSpanStart](renderqueueitem-class.md#timespanstart)
 
 ### 사용 가능한 함수
 
-* [duplicate](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/renderqueueitem-class.md#duplicate)
-* [outputModule](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/renderqueueitem-class.md#outputmodule)
-* [remove](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/renderqueueitem-class.md#remove)
-* [saveAsTemplate](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/renderqueueitem-class.md#saveastemplate)
+* [duplicate](renderqueueitem-class.md#duplicate)
+* [outputModule](renderqueueitem-class.md#outputmodule)
+* [remove](renderqueueitem-class.md#remove)
+* [saveAsTemplate](renderqueueitem-class.md#saveastemplate)
 
 ## 속성값
 
 ### comp <a id="comp"></a>
 
-**● comp**: [`CompItem`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/아이템%20API/compitem-class.md)
+**● comp**: [`CompItem`](../item-api/compitem-class.md)
 
 렌더링 대기열에 있는 컴포지션 객체를 가져옵니다.
 
@@ -47,7 +47,7 @@
 
 ### logType <a id="logtype"></a>
 
-**● logType**: [`LogType`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/enums/_affectscript_.affectscriptapi.logtype.md)
+**● logType**: [`LogType`](../etc/enum/_affectscript_.affectscriptapi.logtype.md)
 
 렌더링 할 때 로그 출력 방식을 설정하거나 가져옵니다.
 
@@ -65,13 +65,13 @@
 
 ### outputModules <a id="outputmodules"></a>
 
-**● outputModules**: [`OMCollection`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/collection/omcollection-class.md)
+**● outputModules**: [`OMCollection`](../collection-api/omcollection-class.md)
 
 모든 출력 모듈을 객체로 가져옵니다.
 
 ### render <a id="render"></a>
 
-**● render**: [`RQItemStatus`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/enums/_affectscript_.affectscriptapi.rqitemstatus.md)
+**● render**: [`RQItemStatus`](../etc/enum/_affectscript_.affectscriptapi.rqitemstatus.md)
 
 해당 레이어의 렌더링 대기상태를 설정하거나 가져옵니다.
 
@@ -89,7 +89,7 @@
 
 ### status <a id="status"></a>
 
-**● status**: [`RQItemStatus`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/enums/_affectscript_.affectscriptapi.rqitemstatus.md)
+**● status**: [`RQItemStatus`](../etc/enum/_affectscript_.affectscriptapi.rqitemstatus.md)
 
 현재 렌더링 상태를 가져옵니다.
 
@@ -115,15 +115,15 @@
 
 ### duplicate <a id="duplicate"></a>
 
-▸ **duplicate**\(\): [`RenderQueueItem`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/collection/renderqueueitem-class.md)
+▸ **duplicate**\(\): [`RenderQueueItem`](../collection-api/renderqueueitem-class.md)
 
 렌더링 대기열에 있는 컴포지션을 복제합니다.
 
-**반환:** [`RenderQueueItem`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/collection/renderqueueitem-class.md)
+**반환:** [`RenderQueueItem`](../collection-api/renderqueueitem-class.md)
 
 ### outputModule <a id="outputmodule"></a>
 
-▸ **outputModule**\(index: `number`\): [`OutputModule`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/classes/outputmodule-class.md)
+▸ **outputModule**\(index: `number`\): [`OutputModule`](../etc/class//outputmodule-class.md)
 
 출력 모듈 객체를 가져옵니다.
 
@@ -133,7 +133,7 @@
 | :--- | :--- | :--- |
 | index | `number` | 가져올 모듈 위치입니다. |
 
-**반환:** [`OutputModule`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/classes/outputmodule-class.md)
+**반환:** [`OutputModule`](../etc/class//outputmodule-class.md)
 
 ### remove <a id="remove"></a>
 
