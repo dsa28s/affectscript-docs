@@ -4,14 +4,13 @@
 
 ## 시작하기
 
-* [문법](get-started/grammer.md)
-* [Javascript 표준 API](get-started/javascript-api.md)
-* [IDE 설치하기](get-started/ide.md)
-* [Untitled](get-started/untitled.md)
+* [문법](undefined/grammer.md)
+* [Javascript 표준 API](undefined/javascript-api.md)
+* [IDE 설치하기](undefined/ide.md)
 
 ## After Effects Javascript API
 
-* [Untitled](after-effects-javascript-api/untitled.md)
+* [목차](after-effects-javascript-api/untitled.md)
 * [After Effects 컨트롤 API](after-effects-javascript-api/after-effects-api/README.md)
   * [AfterEffectsItem 클래스](after-effects-javascript-api/after-effects-api/aftereffectsitem-class.md)
   * [Application 클래스](after-effects-javascript-api/after-effects-api/application-class.md)

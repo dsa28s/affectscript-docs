@@ -1,4 +1,4 @@
-# After Effects Javascript API
+# 목차
 
 ## 목차
 
@@ -6,7 +6,7 @@
 
 After Effects에서 사용하는 최상위 변수입니다. 해당 변수를 통해 After Effects 스크립트를 만들 수 있습니다.
 
-* [app](./#app)
+* [app](https://github.com/AffectScript/affectscript-docs/tree/0294b3b3cadf2779251e482f6d3f840dfb2975ed/javascript-api/after-effects-javascript-api/README.md#app)
   * app
 
     **● app**: [_Application_](after-effects-api/application-class.md)\_\_
@@ -14,7 +14,7 @@ After Effects에서 사용하는 최상위 변수입니다. 해당 변수를 통
     Affect Script를 가리키는 변수입니다.
 * [system](after-effects-api/system-class.md)
 
-### After Effects 컨트롤 API <a id="app"></a>
+### After Effects 컨트롤 API  <a id="app"></a>
 
 After Effects를 코드로 제어하기 위한 API 입니다. 아래 항목에 포함된 코드를 작성하면, 스크립트로 After Effects를 제어 \(예를 들어 5초에 한번씩 저장, 새 프로젝트 생성 등\)를 할 수 있습니다.
 
@@ -147,3 +147,4 @@ After Effects에서 사용 가능한 모든 아이템의 속성값을 불러오�
 * [TimeDisplayType](etc/enum/_affectscript_.affectscriptapi.timedisplaytype.md)
 * [TrackMatteType](etc/enum/_affectscript_.affectscriptapi.trackmattetype.md)
 * [ViewerType](etc/enum/_affectscript_.affectscriptapi.viewertype.md)
+
