@@ -2,9 +2,13 @@
 
 ## 구조
 
+[Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md)
+
 ↳ [AVLayer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md)
 
-**↳ ShapeLayer**
+&nbsp;&nbsp;&nbsp;&nbsp;**↳ ShapeLayer**
+
+&nbsp;&nbsp;&nbsp;&nbsp;↳ [TextLayer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/textlayer-class.md)
 
 ## 목차
 

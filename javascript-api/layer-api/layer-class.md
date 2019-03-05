@@ -2,11 +2,13 @@
 
 ## 구조
 
-**↳ Layer**
+**Layer**
 
 ↳ [AVLayer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md)
 
 ↳ [CameraLayer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/cameralayer-class.md)
+
+↳ [LightLayer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/lightlayer-class.md)
 
 ## 목차
 
