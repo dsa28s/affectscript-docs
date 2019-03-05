@@ -9,7 +9,7 @@
 ### 설정값
 
 * [activeCamera](aftereffectsitem-class.md#activecamera)
-* [bgColor](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/after-effects-api/aftereffects../item-api/item-class.md#bgcolor)
+* [bgColor](aftereffectsitem-class.md#bgcolor)
 * [comment](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/after-effects-api/aftereffects../item-api/item-class.md#comment)
 * [displayStartTime](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/after-effects-api/aftereffects../item-api/item-class.md#displaystarttime)
 * [draft3d](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/after-effects-api/aftereffects../item-api/item-class.md#draft3d)
