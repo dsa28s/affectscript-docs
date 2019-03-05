@@ -188,13 +188,13 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 ### layers  <a id="layers"></a>
 
-**● layers**: \_[LayerCollection](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/collection/layercollection-class.md)\_
+**● layers**: \_[LayerCollection](../collection-api/layercollection-class.md)\_
 
 컴포지션에 있는 모든 레이어를 객체로 가져옵니다.
 
 ### mainSource  <a id="mainsource"></a>
 
-**● mainSource**: \_[FootageSource](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/footagesource-class.md)\_
+**● mainSource**: \_[FootageSource](../footage-api/footagesource-class.md)\_
 
 푸티지가 어떤 종류인지 가져옵니다.
 
@@ -232,7 +232,7 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 ### parentFolder  <a id="parentfolder"></a>
 
-**● parentFolder**: \_[FolderItem](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/after-effects-api/folder../item-api/item-class.md)\_
+**● parentFolder**: \_[FolderItem](../item-api/folderitem-class.md)\_
 
 \_부모로부터 상속됨 : [Item](../item-api/item-class.md).[parentFolder](../item-api/item-class.md#parentfolder)\_
 
@@ -252,7 +252,7 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 ### proxySource  <a id="proxysource"></a>
 
-**● proxySource**: \_[FootageSource](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/footagesource-class.md)\_
+**● proxySource**: \_[FootageSource](../footage-api/footagesource-class.md)\_
 
 ### renderer  <a id="renderer"></a>
 
