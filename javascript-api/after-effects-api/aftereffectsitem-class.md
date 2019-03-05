@@ -2,17 +2,17 @@
 
 ## 구조
 
-↳ [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md)
+↳ [Item](../item-api/item-class.md)
 
 ## 목차
 
 ### 설정값
 
-* [activeCamera](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/aftereffectsitem-class.md#activecamera)
-* [bgColor](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/aftereffectsitem-class.md#bgcolor)
-* [comment](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/aftereffectsitem-class.md#comment)
-* [displayStartTime](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/aftereffectsitem-class.md#displaystarttime)
-* [draft3d](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/aftereffectsitem-class.md#draft3d)
+* [activeCamera](aftereffectsitem-class.md#activecamera)
+* [bgColor](aftereffectsitem-class.md#bgcolor)
+* [comment](aftereffectsitem-class.md#comment)
+* [displayStartTime](aftereffectsitem-class.md#displaystarttime)
+* draft3d
 * [dropFrame](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/aftereffectsitem-class.md#dropframe)
 * [duration](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/aftereffectsitem-class.md#duration)
 * [file](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/aftereffectsitem-class.md#file)
