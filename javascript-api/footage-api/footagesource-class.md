@@ -4,41 +4,41 @@
 
 **FootageSource**
 
-↳ [FileSource](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/filesource-class.md)
+↳ [FileSource](filesource-class.md)
 
-↳ [PlaceholderSource](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/placeholdersource-class.md)
+↳ [PlaceholderSource](placeholdersource-class.md)
 
-↳ [SolidSource](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/solidsource-class.md)
+↳ [SolidSource](solidsource-class.md)
 
-↳ [ImportOptions](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/importoptions-class.md)
+↳ [ImportOptions](importoptions-class.md)
 
 ## 목차
 
 ### 속성값
 
-* [alphaMode](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/footagesource-class.md#alphamode)
-* [conformFrameRate](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/footagesource-class.md#conformframerate)
-* [displayFrameRate](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/footagesource-class.md#displayframerate)
-* [fieldSeparationType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/footagesource-class.md#fieldseparationtype)
-* [hasAlpha](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/footagesource-class.md#hasalpha)
-* [highQualityFieldSeparation](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/footagesource-class.md#highqualityfieldseparation)
-* [invertAlpha](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/footagesource-class.md#invertalpha)
-* [isStill](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/footagesource-class.md#isstill)
-* [loop](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/footagesource-class.md#loop)
-* [nativeFrameRate](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/footagesource-class.md#nativeframerate)
-* [premulColor](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/footagesource-class.md#premulcolor)
-* [removePulldown](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/footagesource-class.md#removepulldown)
+* [alphaMode](footagesource-class.md#alphamode)
+* [conformFrameRate](footagesource-class.md#conformframerate)
+* [displayFrameRate](footagesource-class.md#displayframerate)
+* [fieldSeparationType](footagesource-class.md#fieldseparationtype)
+* [hasAlpha](footagesource-class.md#hasalpha)
+* [highQualityFieldSeparation](footagesource-class.md#highqualityfieldseparation)
+* [invertAlpha](footagesource-class.md#invertalpha)
+* [isStill](footagesource-class.md#isstill)
+* [loop](footagesource-class.md#loop)
+* [nativeFrameRate](footagesource-class.md#nativeframerate)
+* [premulColor](footagesource-class.md#premulcolor)
+* [removePulldown](footagesource-class.md#removepulldown)
 
 ### 사용 가능한 함수
 
-* [guessAlphaMode](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/footagesource-class.md#guessalphamode)
-* [guessPulldown](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/footagesource-class.md#guesspulldown)
+* [guessAlphaMode](footagesource-class.md#guessalphamode)
+* [guessPulldown](footagesource-class.md#guesspulldown)
 
 ## 속성값
 
 ### alphaMode <a id="alphamode"></a>
 
-**● alphaMode**: _\[_`AlphaMode`_\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.alphamode.md\)\_
+**● alphaMode**: [`AlphaMode`](../etc/enum/_affectscript_.affectscriptapi.alphamode.md)
 
 푸티지의 알파 모드를 설정하거나 가져옵니다.
 
@@ -52,7 +52,7 @@
 
 ### fieldSeparationType <a id="fieldseparationtype"></a>
 
-**● fieldSeparationType**: _\[_`FieldSeparationType`_\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.fieldseparationtype.md\)\_
+**● fieldSeparationType**: [`FieldSeparationType`](../etc/enum/_affectscript_.affectscriptapi.fieldseparationtype.md)
 
 ### hasAlpha <a id="hasalpha"></a>
 
@@ -94,7 +94,7 @@
 
 ### removePulldown <a id="removepulldown"></a>
 
-**● removePulldown**: [`PulldownPhase`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/classes/pulldownphase-class.md)
+**● removePulldown**: [`PulldownPhase`](../etc/class/pulldownphase-class.md)
 
 ## 사용 가능한 함수
 
@@ -106,7 +106,7 @@
 
 ### guessPulldown <a id="guesspulldown"></a>
 
-▸ **guessPulldown**\(method: _\[_`PulldownMethod`_\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.pulldownmethod.md\)_\):_ `void`\_
+▸ **guessPulldown**\(method: [`PulldownMethod`](../etc/enum/_affectscript_.affectscriptapi.pulldownmethod.md)_\):_ `void`\_
 
 푸티지에 맞는 최상의 추정치를 설정합니다.
 
@@ -114,5 +114,5 @@
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| method | [`PulldownMethod`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/enums/_affectscript_.affectscriptapi.pulldownmethod.md) | 설정할 설정값입니다. |
+| method | [`PulldownMethod`](../etc/enum/_affectscript_.affectscriptapi.pulldownmethod.md) | 설정할 설정값입니다. |
 
