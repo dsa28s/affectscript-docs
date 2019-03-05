@@ -4,9 +4,9 @@
 
 ## 시작하기
 
-* [문법](undefined/grammer.md)
-* [Javascript 표준 API](undefined/javascript-api.md)
-* [IDE 설치하기](undefined/ide.md)
+* [문법](get-started/grammer.md)
+* [Javascript 표준 API](get-started/javascript-api.md)
+* [IDE 설치하기](get-started/ide.md)
 
 ## After Effects Javascript API
 
