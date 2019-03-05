@@ -2,11 +2,11 @@
 
 ## 구조
 
-**Layer**
+[Layer](layer-class.md)
 
-↳ [AVLayer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md)
+↳ [AVLayer](avlayer-class.md)
 
-↳ [CameraLayer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/cameralayer-class.md)
+↳ [CameraLayer](cameralayer-class.md)
 
 **↳ LightLayer**
 
@@ -14,13 +14,13 @@
 
 ### 속성값
 
-* [lightType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/lightlayer-class.md#lighttype)
+* [lightType](lightlayer-class.md#lighttype)
 
 ## 속성값
 
 ### lightType <a id="lighttype"></a>
 
-**● lightType**: _\[LightType\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.lighttype.md\)\_
+**● lightType**: [LightType](../etc/enum/_affectscript_.affectscriptapi.lighttype.md)
 
 라이트 레이어의 종류를 가져오거나 설정합니다.
 

@@ -4,15 +4,15 @@
 
 **Collection**
 
-↳ [ItemCollection](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/itemcollection-class.md)
+↳ [ItemCollection](itemcollection-class.md)
 
-↳ [LayerCollection](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/layercollection-class.md)
+↳ [LayerCollection](layercollection-class.md)
 
-↳ [OMCollection](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/omcollection-class.md)
+↳ [OMCollection](omcollection-class.md)
 
-↳ [RenderQueueItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/renderqueueitem-class.md)
+↳ [RenderQueueItem](renderqueueitem-class.md)
 
-↳ [RQItemCollection](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/콜렉션%20API/rqitemcollection-class.md)
+↳ [RQItemCollection](rqitemcollection-class.md)
 
 ## 목차
 

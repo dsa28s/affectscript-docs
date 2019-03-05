@@ -8,44 +8,44 @@
 
 ### 속성값
 
-* [activeItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#activeitem)
-* [bitsPerChannel](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#bitsperchannel)
-* [displayStartFrame](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#displaystartframe)
-* [feetFramesFilmType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#feetframesfilmtype)
-* [file](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#file)
-* [footageTimecodeDisplayStartType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#footagetimecodedisplaystarttype)
-* [framesCountType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#framescounttype)
-* [framesUseFeetFrames](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#framesusefeetframes)
-* [items](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#items)
-* [linearBlending](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#linearblending)
-* [numItems](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#numitems)
-* [renderQueue](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#renderqueue)
-* [rootFolder](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#rootfolder)
-* [selection](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#selection)
-* [timeDisplayType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#timedisplaytype)
-* [transparencyGridThumbnails](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#transparencygridthumbnails)
-* [xmpPacket](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#xmppacket)
+* [activeItem](project-class.md#activeitem)
+* [bitsPerChannel](project-class.md#bitsperchannel)
+* [displayStartFrame](project-class.md#displaystartframe)
+* [feetFramesFilmType](project-class.md#feetframesfilmtype)
+* [file](project-class.md#file)
+* [footageTimecodeDisplayStartType](project-class.md#footagetimecodedisplaystarttype)
+* [framesCountType](project-class.md#framescounttype)
+* [framesUseFeetFrames](project-class.md#framesusefeetframes)
+* [items](project-class.md#items)
+* [linearBlending](project-class.md#linearblending)
+* [numItems](project-class.md#numitems)
+* [renderQueue](project-class.md#renderqueue)
+* [rootFolder](project-class.md#rootfolder)
+* [selection](project-class.md#selection)
+* [timeDisplayType](project-class.md#timedisplaytype)
+* [transparencyGridThumbnails](project-class.md#transparencygridthumbnails)
+* [xmpPacket](project-class.md#xmppacket)
 
 ### 사용 가능한 함수
 
-* [autoFixExpressions](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#autofixexpressions)
-* [close](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#close)
-* [consolidateFootage](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#consolidatefootage)
-* [importFile](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#importfile)
-* [importFileWithDialog](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#importfilewithdialog)
-* [importPlaceholder](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#importplaceholder)
-* [item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#item)
-* [reduceProject](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#reduceproject)
-* [removeUnusedFootage](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#removeunusedfootage)
-* [save](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#save)
-* [saveWithDialog](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#savewithdialog)
-* [showWindow](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/project/project-class.md#showwindow)
+* [autoFixExpressions](project-class.md#autofixexpressions)
+* [close](project-class.md#close)
+* [consolidateFootage](project-class.md#consolidatefootage)
+* [importFile](project-class.md#importfile)
+* [importFileWithDialog](project-class.md#importfilewithdialog)
+* [importPlaceholder](project-class.md#importplaceholder)
+* [item](project-class.md#item)
+* [reduceProject](project-class.md#reduceproject)
+* [removeUnusedFootage](project-class.md#removeunusedfootage)
+* [save](project-class.md#save)
+* [saveWithDialog](project-class.md#savewithdialog)
+* [showWindow](project-class.md#showwindow)
 
 ## 속성값
 
 ### activeItem <a id="activeitem"></a>
 
-**● activeItem**: \_[Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md)\_
+**● activeItem**: \_[Item](../item-api/item-class.md)\_
 
 현재 프로젝트에서 활성화 된 아이템을 가져옵니다.
 
@@ -77,7 +77,7 @@
 
 ### framesCountType <a id="framescounttype"></a>
 
-**● framesCountType**: _\[FramesCountType\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.framescounttype.md\)\_
+**● framesCountType**: _[FramesCountType](../etc/enum/_affectscript_.affectscriptapi.framescounttype.md)_
 
 ### framesUseFeetFrames <a id="framesusefeetframes"></a>
 
@@ -85,7 +85,7 @@
 
 ### items <a id="items"></a>
 
-**● items**: \_[ItemCollection](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/collection/itemcollection-class.md)\_
+**● items**: \_[ItemCollection](../collection-api/itemcollection-class.md)\_
 
 프로젝트의 모든 아이템을 가져옵니다.
 
@@ -101,25 +101,25 @@
 
 ### renderQueue <a id="renderqueue"></a>
 
-**● renderQueue**: \_[RenderQueue](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/render/renderqueue-class.md)\_
+**● renderQueue**: \_[RenderQueue](../rendering-api/renderqueue-class.md)\_
 
 렌더링 대기열을 가져옵니다.
 
 ### rootFolder <a id="rootfolder"></a>
 
-**● rootFolder**: \_[FolderItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/folderitem-class.md)\_
+**● rootFolder**: \_[FolderItem](../item-api/folderitem-class.md)\_
 
 프로젝트에서 최상위 그룹 폴더를 가져옵니다.
 
 ### selection <a id="selection"></a>
 
-**● selection**: \_[Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md)\[\]\_
+**● selection**: \_[Item](../item-api/item-class.md)\[\]\_
 
 프로젝트 내에서 선택된 모든 아이템을 배열의 형태로 가져옵니다.
 
 ### timeDisplayType <a id="timedisplaytype"></a>
 
-**● timeDisplayType**: _\[TimeDisplayType\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.timedisplaytype.md\)\_
+**● timeDisplayType**: [TimeDisplayType](../etc/enum/_affectscript_.affectscriptapi.timedisplaytype.md)
 
 프로젝트에서 사용하는 시간 형식을 가져오거나 설정합니다.
 
@@ -148,7 +148,7 @@
 
 ### close <a id="close"></a>
 
-▸ **close**\(closeOptions: _\[CloseOptions\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.closeoptions.md\)\_\): `void`
+▸ **close**\(closeOptions: _[CloseOptions](../etc/enum/_affectscript_.affectscriptapi.closeoptions.md)): `void`
 
 프로젝트를 닫습니다.
 
@@ -156,7 +156,7 @@
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| closeOptions | [CloseOptions](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/enums/_affectscript_.affectscriptapi.closeoptions.md) | 프로젝트를 닫을 때에 프롬프트 창을 띄어 저장할건지, 저장하지 않고 닫을지 여부를 설정합니다. |
+| closeOptions | [CloseOptions](../etc/enum/_affectscript_.affectscriptapi.closeoptions.md) | 프로젝트를 닫을 때에 프롬프트 창을 띄어 저장할건지, 저장하지 않고 닫을지 여부를 설정합니다. |
 
 ### consolidateFootage <a id="consolidatefootage"></a>
 
@@ -166,7 +166,7 @@
 
 ### importFile <a id="importfile"></a>
 
-▸ **importFile**\(importOptions: [_ImportOptions_](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/importoptions-class.md)\): [FootageItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md)
+▸ **importFile**\(importOptions: [_ImportOptions_](../footage-api/importoptions-class.md)\): [FootageItem](../item-api/footageitem-class.md)
 
 프로젝트에 파일을 추가합니다. \(가져옵니다.\)
 
@@ -174,17 +174,17 @@
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| importOptions | [ImportOptions](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/importoptions-class.md) | 파일을 가져올 때 옵션값을 지정합니다. |
+| importOptions | [ImportOptions](../footage-api/importoptions-class.md) | 파일을 가져올 때 옵션값을 지정합니다. |
 
-**반환:** [FootageItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md)
+**반환:** [FootageItem](../item-api/footageitem-class.md)
 
 ### importFileWithDialog <a id="importfilewithdialog"></a>
 
-▸ **importFileWithDialog**\(\): [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md)\[\]
+▸ **importFileWithDialog**\(\): [Item](../item-api/item-class.md)\[\]
 
 파일 대화상자를 통해 파일을 프로젝트로 가져옵니다.
 
-**반환:** [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md)\[\]
+**반환:** [Item](../item-api/item-class.md)\[\]
 
 ### importPlaceholder <a id="importplaceholder"></a>
 
@@ -206,7 +206,7 @@
 
 ### item <a id="item"></a>
 
-▸ **item**\(index: `number`\): [AfterEffectsItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/aftereffectsitem-class.md)
+▸ **item**\(index: `number`\): [AfterEffectsItem](../item-api/aftereffectsitem-class.md)
 
 프로젝트에서 아이템을 가져옵니다.
 
@@ -216,11 +216,11 @@
 | :--- | :--- | :--- |
 | index | `number` | 가져올 아이템의 위치입니다. |
 
-**반환:** [AfterEffectsItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/aftereffectsitem-class.md)
+**반환:** [AfterEffectsItem](../item-api/aftereffectsitem-class.md)
 
 ### reduceProject <a id="reduceproject"></a>
 
-▸ **reduceProject**\(arrayOfItems: \_[Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md)\[\]\_\): `number`
+▸ **reduceProject**\(arrayOfItems: \_[Item](../item-api/item-class.md)\[\]\_\): `number`
 
 프로젝트를 줄입니다.
 
@@ -228,7 +228,7 @@
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| arrayOfItems | [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md)\[\] | 줄일 아이템 배열 객체입니다. |
+| arrayOfItems | [Item](../item-api/item-class.md)\[\] | 줄일 아이템 배열 객체입니다. |
 
 **반환:** `number` 프로젝트에서 제거된 아이템의 개수입니다.
 

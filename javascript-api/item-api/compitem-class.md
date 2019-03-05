@@ -2,79 +2,79 @@
 
 ## 구조
 
-[Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md)
+[Item](item.md)
 
-↳ [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md)
+↳ [AVItem](avitem-class.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;**↳ CompItem**
 
-&nbsp;&nbsp;&nbsp;&nbsp;↳ [FootageItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/footageitem-class.md)
+&nbsp;&nbsp;&nbsp;&nbsp;↳ [FootageItem](footage-item.md)
 
 ## 목차
 
 ### 속성값
 
-* [activeCamera](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#activecamera)
-* [bgColor](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#bgcolor)
-* [comment](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#comment)
-* [displayStartTime](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#displaystarttime)
-* [draft3d](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#draft3d)
-* [dropFrame](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#dropframe)
-* [duration](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#duration)
-* [footageMissing](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#footagemissing)
-* [frameBlending](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#frameblending)
-* [frameDuration](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#frameduration)
-* [frameRate](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#framerate)
-* [hasAudio](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#hasaudio)
-* [hasVideo](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#hasvideo)
-* [height](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#height)
-* [hideShyLayer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#hideshylayer)
-* [id](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#id)
-* [label](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#label)
-* [layers](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#layers)
-* [motionBlur](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#motionblur)
-* [motionBlurAdaptiveSampleLimit](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#motionbluradaptivesamplelimit)
-* [motionBlurSamplesPerFrame](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#motionblursamplesperframe)
-* [name](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#name)
-* [numLayers](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#numlayers)
-* [parentFolder](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#parentfolder)
-* [pixelAspect](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#pixelaspect)
-* [preserveNestedFrameRate](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#preservenestedframerate)
-* [preserveNestedResolution](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#preservenestedresolution)
-* [proxySource](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#proxysource)
-* [renderer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#renderer)
-* [renderers](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#renderers)
-* [resolutionFactor](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#resolutionfactor)
-* [selected](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#selected)
-* [selectedLayers](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#selectedlayers)
-* [selectedProperties](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#selectedproperties)
-* [shutterAngle](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#shutterangle)
-* [shutterPhase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#shutterphase)
-* [time](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#time)
-* [typeName](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#typename)
-* [useProxy](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#useproxy)
-* [usedIn](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#usedin)
-* [width](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#width)
-* [workAreaDuration](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#workareaduration)
-* [workAreaStart](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#workareastart)
+* [activeCamera](compitem-class.md#activecamera)
+* [bgColor](compitem-class.md#bgcolor)
+* [comment](compitem-class.md#comment)
+* [displayStartTime](compitem-class.md#displaystarttime)
+* [draft3d](compitem-class.md#draft3d)
+* [dropFrame](compitem-class.md#dropframe)
+* [duration](compitem-class.md#duration)
+* [footageMissing](compitem-class.md#footagemissing)
+* [frameBlending](compitem-class.md#frameblending)
+* [frameDuration](compitem-class.md#frameduration)
+* [frameRate](compitem-class.md#framerate)
+* [hasAudio](compitem-class.md#hasaudio)
+* [hasVideo](compitem-class.md#hasvideo)
+* [height](compitem-class.md#height)
+* [hideShyLayer](compitem-class.md#hideshylayer)
+* [id](compitem-class.md#id)
+* [label](compitem-class.md#label)
+* [layers](compitem-class.md#layers)
+* [motionBlur](compitem-class.md#motionblur)
+* [motionBlurAdaptiveSampleLimit](compitem-class.md#motionbluradaptivesamplelimit)
+* [motionBlurSamplesPerFrame](compitem-class.md#motionblursamplesperframe)
+* [name](compitem-class.md#name)
+* [numLayers](compitem-class.md#numlayers)
+* [parentFolder](compitem-class.md#parentfolder)
+* [pixelAspect](compitem-class.md#pixelaspect)
+* [preserveNestedFrameRate](compitem-class.md#preservenestedframerate)
+* [preserveNestedResolution](compitem-class.md#preservenestedresolution)
+* [proxySource](compitem-class.md#proxysource)
+* [renderer](compitem-class.md#renderer)
+* [renderers](compitem-class.md#renderers)
+* [resolutionFactor](compitem-class.md#resolutionfactor)
+* [selected](compitem-class.md#selected)
+* [selectedLayers](compitem-class.md#selectedlayers)
+* [selectedProperties](compitem-class.md#selectedproperties)
+* [shutterAngle](compitem-class.md#shutterangle)
+* [shutterPhase](compitem-class.md#shutterphase)
+* [time](compitem-class.md#time)
+* [typeName](compitem-class.md#typename)
+* [useProxy](compitem-class.md#useproxy)
+* [usedIn](compitem-class.md#usedin)
+* [width](compitem-class.md#width)
+* [workAreaDuration](compitem-class.md#workareaduration)
+* [workAreaStart](compitem-class.md#workareastart)
 
 ### 사용 가능한 함수
 
-* [duplicate](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#duplicate)
-* [layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#layer)
-* [openInViewer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#openinviewer)
-* [remove](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#remove)
-* [setProxy](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#setproxy)
-* [setProxyToNone](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#setproxytonone)
-* [setProxyWithPlaceholder](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#setproxywithplaceholder)
-* [setProxyWithSequence](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#setproxywithsequence)
-* [setProxyWithSolid](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md#setproxywithsolid)
+* [duplicate](compitem-class.md#duplicate)
+* [layer](compitem-class.md#layer)
+* [openInViewer](compitem-class.md#openinviewer)
+* [remove](compitem-class.md#remove)
+* [setProxy](compitem-class.md#setproxy)
+* [setProxyToNone](compitem-class.md#setproxytonone)
+* [setProxyWithPlaceholder](compitem-class.md#setproxywithplaceholder)
+* [setProxyWithSequence](compitem-class.md#setproxywithsequence)
+* [setProxyWithSolid](compitem-class.md#setproxywithsolid)
 
 ## Properties
 
 ### activeCamera  <a id="activecamera"></a>
 
-**● activeCamera**: \_[CameraLayer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/cameralayer-class.md)\_
+**● activeCamera**: \_[CameraLayer](../layer-api/cameralayer-class.md)\_
 
 컴포지션에 활성화 된 카메라 객체를 가져옵니다.
 
@@ -88,7 +88,7 @@
 
 **● comment**: `string`
 
-\_부모로부터 상속됨 : [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md).[comment](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#comment)\_
+\_부모로부터 상속됨 : [Item](item-class.md).[comment](item-class.md#comment)\_
 
 아이템에 대한 메모를 추가하거나 가져옵니다.
 
@@ -114,7 +114,7 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 **● duration**: `number`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[duration](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#duration)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[duration](avitem-class.md#duration)\_
 
 아이템의 길이를 가져옵니다. \(재생 시간\)
 
@@ -122,7 +122,7 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 **● footageMissing**: `boolean`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[footageMissing](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#footagemissing)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[footageMissing](avitem-class.md#footagemissing)\_
 
 아이템의 원본 파일이 없을 경우 true 가 반환됩니다.
 
@@ -136,7 +136,7 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 **● frameDuration**: `number`
 
-\_Overrides [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[frameDuration](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#frameduration)\_
+\_Overrides [AVItem](avitem-class.md).[frameDuration](avitem-class.md#frameduration)\_
 
 컴포지션의 전체 프레임 수를 설정하거나 가져옵니다.
 
@@ -144,7 +144,7 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 **● frameRate**: `number`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[frameRate](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#framerate)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[frameRate](avitem-class.md#framerate)\_
 
 아이템의 초당 프레임 수를 가져옵니다.
 
@@ -152,7 +152,7 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 **● hasAudio**: `boolean`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[hasAudio](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#hasaudio)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[hasAudio](avitem-class.md#hasaudio)\_
 
 아이템의 오디오 레이어 여부를 가져옵니다.
 
@@ -160,7 +160,7 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 **● hasVideo**: `boolean`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[hasVideo](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#hasvideo)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[hasVideo](avitem-class.md#hasvideo)\_
 
 아이템의 비디오 레이어 여부를 가져옵니다.
 
@@ -168,7 +168,7 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 **● height**: `number`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[height](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#height)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[height](avitem-class.md#height)\_
 
 아이템의 세로 크기를 가져옵니다.
 
@@ -182,7 +182,7 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 **● id**: `number`
 
-\_부모로부터 상속됨 : [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md).[id](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#id)\_
+\_부모로부터 상속됨 : [Item](item-class.md).[id](item-class.md#id)\_
 
 아이템에 대한 ID를 가져옵니다.
 
@@ -190,13 +190,13 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 **● label**: `number`
 
-\_부모로부터 상속됨 : [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md).[label](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#label)\_
+\_부모로부터 상속됨 : [Item](item-class.md).[label](item-class.md#label)\_
 
 아이템에 대한 플래그 색깔을 설정하거나 가져옵니다. \(1 ~ 16까지 사용가능\)
 
 ### layers  <a id="layers"></a>
 
-**● layers**: \_[LayerCollection](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/collection/layercollection-class.md)\_
+**● layers**: \_[LayerCollection](../collection-api/layercollection-class.md)\_
 
 컴포지션에 있는 모든 레이어를 객체로 가져옵니다.
 
@@ -222,9 +222,9 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 **● name**: `string`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[name](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#name)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[name](avitem-class.md#name)\_
 
-\_Overrides [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md).[name](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#name)\_
+\_Overrides [Item](item-class.md).[name](item-class.md#name)\_
 
 아이템의 이름을 설정하거나 가져옵니다.
 
@@ -236,9 +236,9 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 ### parentFolder  <a id="parentfolder"></a>
 
-**● parentFolder**: \_[FolderItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/folderitem-class.md)\_
+**● parentFolder**: \_[FolderItem](folderitem-class.md)\_
 
-\_부모로부터 상속됨 : [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md).[parentFolder](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#parentfolder)\_
+\_부모로부터 상속됨 : [Item](item-class.md).[parentFolder](item-class.md#parentfolder)\_
 
 아이템이 들어가있는 부모 폴더를 설정하거나 가져옵니다.
 
@@ -246,7 +246,7 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 **● pixelAspect**: `number`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[pixelAspect](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#pixelaspect)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[pixelAspect](avitem-class.md#pixelaspect)\_
 
 ### preserveNestedFrameRate  <a id="preservenestedframerate"></a>
 
@@ -258,9 +258,9 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 ### proxySource  <a id="proxysource"></a>
 
-**● proxySource**: \_[FootageSource](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/footage/footagesource-class.md)\_
+**● proxySource**: \_[FootageSource](../footage-api/footagesource-class.md)\_
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[proxySource](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#proxysource)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[proxySource](avitem-class.md#proxysource)\_
 
 ### renderer  <a id="renderer"></a>
 
@@ -284,19 +284,19 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 **● selected**: `boolean`
 
-\_부모로부터 상속됨 : [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md).[selected](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#selected)\_
+\_부모로부터 상속됨 : [Item](item-class.md).[selected](item-class.md#selected)\_
 
 아이템의 포커스 상태를 설정하거나 가져옵니다.
 
 ### selectedLayers  <a id="selectedlayers"></a>
 
-**● selectedLayers**: \_[Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md)\[\]\_
+**● selectedLayers**: \_[Layer](../layer-api/layer-class.md)\[\]\_
 
 컴포지션에서 선택된 모든 레이어를 가져옵니다.
 
 ### selectedProperties  <a id="selectedproperties"></a>
 
-**● selectedProperties**: \_[Property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md)\_
+**● selectedProperties**: \_[Property](../property-api/property-class.md)\_
 
 아이템에서 선택된 효과 \(혹은 설정값\) 를 가져옵니다.
 
@@ -312,7 +312,7 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 **● time**: `number`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[time](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#time)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[time](avitem-class.md#time)\_
 
 아이템이 미리보기에 나오고 있을 경우, 현재 시간값을 가져옵니다. 미리보기에 나오고 있을 경우 현재 시간을 설정합니다.
 
@@ -320,7 +320,7 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 **● typeName**: `string`
 
-\_부모로부터 상속됨 : [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md).[typeName](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#typename)\_
+\_부모로부터 상속됨 : [Item](item-class.md).[typeName](item-class.md#typename)\_
 
 아이템의 종류를 문자열로 가져옵니다.
 
@@ -328,15 +328,15 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 **● useProxy**: `boolean`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[useProxy](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#useproxy)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[useProxy](avitem-class.md#useproxy)\_
 
 아이템의 프록시 사용 여부를 설정하거나 가져옵니다.
 
 ### usedIn  <a id="usedin"></a>
 
-**● usedIn**: \_[CompItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md)\[\]\_
+**● usedIn**: \_[CompItem](compitem-class.md)\[\]\_
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[usedIn](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#usedin)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[usedIn](avitem-class.md#usedin)\_
 
 아이템을 사용하고 있는 컴포지션 객체를 배열 형태로 가져옵니다.
 
@@ -344,7 +344,7 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 **● width**: `number`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[width](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#width)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[width](avitem-class.md#width)\_
 
 아이템의 가로 크기를 가져옵니다.
 
@@ -364,15 +364,15 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 ### duplicate  <a id="duplicate"></a>
 
-▸ **duplicate**\(\): [CompItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md)
+▸ **duplicate**\(\): [CompItem](compitem-class.md)
 
 컴포지션을 복제합니다.
 
-**반환:** [CompItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md)
+**반환:** [CompItem](compitem-class.md)
 
 ### layer  <a id="layer"></a>
 
-▸ **layer**\(index: `number` _\|_ `string` _\|_ [_Layer_](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md), relIndex?: `number`\): [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md)
+▸ **layer**\(index: `number` _\|_ `string` _\|_ [_Layer_](../layer-api/layer-class.md), relIndex?: `number`\): [Layer](../layer-api/layer-class.md)
 
 컴포지션에서 특정 레이어를 가져옵니다.
 
@@ -380,24 +380,24 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| index | `number` \| `string` \| [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript/api/layer/layer-class.md) | 가져올 레이어의 위치 / 레이어 이름 / 레이어 객체가 될 수 있습니다. |
+| index | `number` \| `string` \| [Layer](../layer-api/layer-class.md) | 가져올 레이어의 위치 / 레이어 이름 / 레이어 객체가 될 수 있습니다. |
 | `Optional` relIndex | `number` |  |
 
-**반환:** [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md)
+**반환:** [Layer](../layer-api/layer-class.md)
 
 ### openInViewer  <a id="openinviewer"></a>
 
-▸ **openInViewer**\(\): [Viewer](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/item-api/after-effects-api/viewer-class.md)
+▸ **openInViewer**\(\): [Viewer](../after-effects-api/viewer-class.md)
 
 컴포지션을 엽니다.
 
-**반환:** [Viewer](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/item-api/after-effects-api/viewer-class.md)
+**반환:** [Viewer](../after-effects-api/viewer-class.md)
 
 ### remove  <a id="remove"></a>
 
 ▸ **remove**\(\): `void`
 
-\_부모로부터 상속됨 : [Item](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md).[remove](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/item-class.md#remove)\_
+\_부모로부터 상속됨 : [Item](item-class.md).[remove](item-class.md#remove)\_
 
 프로젝트에서 해당 아이템을 제거합니다. \(원본 파일은 유지됩니다.\)
 
@@ -405,7 +405,7 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 ▸ **setProxy**\(file: `File`\): `void`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[setProxy](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#setproxy)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[setProxy](avitem-class.md#setproxy)\_
 
 아이템에 프록시를 설정합니다.
 
@@ -419,7 +419,7 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 ▸ **setProxyToNone**\(\): `void`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[setProxyToNone](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#setproxytonone)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[setProxyToNone](avitem-class.md#setproxytonone)\_
 
 아이템에 프록시가 설정되어있다면 프록시 설정값을 없앱니다.
 
@@ -427,7 +427,7 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 ▸ **setProxyWithPlaceholder**\(name: `string`, width: `number`, height: `number`, frameRate: `number`, duration: `number`\): `void`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[setProxyWithPlaceholder](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#setproxywithplaceholder)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[setProxyWithPlaceholder](avitem-class.md#setproxywithplaceholder)\_
 
 **매개변수:**
 
@@ -443,7 +443,7 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 ▸ **setProxyWithSequence**\(file: `File`, forceAlphabetical: `boolean`\): `void`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[setProxyWithSequence](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#setproxywithsequence)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[setProxyWithSequence](avitem-class.md#setproxywithsequence)\_
 
 **매개변수:**
 
@@ -456,7 +456,7 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 ▸ **setProxyWithSolid**\(color: `number`_\[\]_, name: `string`, width: `number`, height: `number`, pixelAspect: `number`\): `void`
 
-\_부모로부터 상속됨 : [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md).[setProxyWithSolid](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md#setproxywithsolid)\_
+\_부모로부터 상속됨 : [AVItem](avitem-class.md).[setProxyWithSolid](avitem-class.md#setproxywithsolid)\_
 
 **매개변수:**
 

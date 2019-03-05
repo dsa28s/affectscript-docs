@@ -2,100 +2,101 @@
 
 ## 구조
 
-[Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md)
+[Layer](layer-class.md)
 
 **↳ AVLayer**
 
-&nbsp;&nbsp;&nbsp;&nbsp;↳ [ShapeLayer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/shapelayer-class.md)
+&nbsp;&nbsp;&nbsp;&nbsp;↳ [ShapeLayer](shapelayer-class.md)
 
-&nbsp;&nbsp;&nbsp;&nbsp;↳ [TextLayer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/textlayer-class.md)
+&nbsp;&nbsp;&nbsp;&nbsp;↳ [TextLayer](textlayer-class.md)
+
 
 ## 목차
 
 ### 속성값
 
-* [Effects](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#effects)
-* [active](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#active)
-* [adjustmentLayer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#adjustmentlayer)
-* [audioActive](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#audioactive)
-* [audioEnabled](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#audioenabled)
-* [autoOrient](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#autoorient)
-* [blendingMode](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#blendingmode)
-* [canSetCollapseTransformation](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#cansetcollapsetransformation)
-* [canSetTimeRemapEnabled](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#cansettimeremapenabled)
-* [collapseTransformation](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#collapsetransformation)
-* [comment](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#comment)
-* [containingComp](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#containingcomp)
-* [effectsActive](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#effectsactive)
-* [enabled](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#enabled)
-* [environmentLayer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#environmentlayer)
-* [frameBlending](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#frameblending)
-* [frameBlendingType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#frameblendingtype)
-* [guideLayer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#guidelayer)
-* [hasAudio](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#hasaudio)
-* [hasTrackMatte](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#hastrackmatte)
-* [hasVideo](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#hasvideo)
-* [height](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#height)
-* [inPoint](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#inpoint)
-* [index](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#index)
-* [isNameFromSource](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#isnamefromsource)
-* [isNameSet](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#isnameset)
-* [isTrackMatte](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#istrackmatte)
-* [locked](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#locked)
-* [motionBlur](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#motionblur)
-* [name](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#name)
-* [nullLayer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#nulllayer)
-* [outPoint](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#outpoint)
-* [parent](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#parent)
-* [preserveTransparency](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#preservetransparency)
-* [quality](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#quality)
-* [selectedProperties](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#selectedproperties)
-* [shy](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#shy)
-* [solo](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#solo)
-* [source](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#source)
-* [startTime](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#starttime)
-* [stretch](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#stretch)
-* [threeDLayer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#threedlayer)
-* [threeDPerChar](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#threedperchar)
-* [time](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#time)
-* [timeRemapEnabled](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#timeremapenabled)
-* [trackMatteType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#trackmattetype)
-* [width](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#width)
+* [Effects](avlayer-class.md#effects)
+* [active](avlayer-class.md#active)
+* [adjustmentLayer](avlayer-class.md#adjustmentlayer)
+* [audioActive](avlayer-class.md#audioactive)
+* [audioEnabled](avlayer-class.md#audioenabled)
+* [autoOrient](avlayer-class.md#autoorient)
+* [blendingMode](avlayer-class.md#blendingmode)
+* [canSetCollapseTransformation](avlayer-class.md#cansetcollapsetransformation)
+* [canSetTimeRemapEnabled](avlayer-class.md#cansettimeremapenabled)
+* [collapseTransformation](avlayer-class.md#collapsetransformation)
+* [comment](avlayer-class.md#comment)
+* [containingComp](avlayer-class.md#containingcomp)
+* [effectsActive](avlayer-class.md#effectsactive)
+* [enabled](avlayer-class.md#enabled)
+* [environmentLayer](avlayer-class.md#environmentlayer)
+* [frameBlending](avlayer-class.md#frameblending)
+* [frameBlendingType](avlayer-class.md#frameblendingtype)
+* [guideLayer](avlayer-class.md#guidelayer)
+* [hasAudio](avlayer-class.md#hasaudio)
+* [hasTrackMatte](avlayer-class.md#hastrackmatte)
+* [hasVideo](avlayer-class.md#hasvideo)
+* [height](avlayer-class.md#height)
+* [inPoint](avlayer-class.md#inpoint)
+* [index](avlayer-class.md#index)
+* [isNameFromSource](avlayer-class.md#isnamefromsource)
+* [isNameSet](avlayer-class.md#isnameset)
+* [isTrackMatte](avlayer-class.md#istrackmatte)
+* [locked](avlayer-class.md#locked)
+* [motionBlur](avlayer-class.md#motionblur)
+* [name](avlayer-class.md#name)
+* [nullLayer](avlayer-class.md#nulllayer)
+* [outPoint](avlayer-class.md#outpoint)
+* [parent](avlayer-class.md#parent)
+* [preserveTransparency](avlayer-class.md#preservetransparency)
+* [quality](avlayer-class.md#quality)
+* [selectedProperties](avlayer-class.md#selectedproperties)
+* [shy](avlayer-class.md#shy)
+* [solo](avlayer-class.md#solo)
+* [source](avlayer-class.md#source)
+* [startTime](avlayer-class.md#starttime)
+* [stretch](avlayer-class.md#stretch)
+* [threeDLayer](avlayer-class.md#threedlayer)
+* [threeDPerChar](avlayer-class.md#threedperchar)
+* [time](avlayer-class.md#time)
+* [timeRemapEnabled](avlayer-class.md#timeremapenabled)
+* [trackMatteType](avlayer-class.md#trackmattetype)
+* [width](avlayer-class.md#width)
 
 ### 사용 가능한 함수
 
-* [activeAtTime](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#activeattime)
-* [applyPreset](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#applypreset)
-* [audioActiveAtTime](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#audioactiveattime)
-* [calculateTransformFromPoints](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#calculatetransformfrompoints)
-* [copyToComp](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#copytocomp)
-* [duplicate](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#duplicate)
-* [effect](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#effect)
-* [mask](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#mask)
-* [moveAfter](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#moveafter)
-* [moveBefore](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#movebefore)
-* [moveToBeginning](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#movetobeginning)
-* [moveToEnd](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#movetoend)
-* [openInViewer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#openinviewer)
-* [property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#property)
-* [remove](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#remove)
-* [replaceSource](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#replacesource)
-* [setParentWithJump](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#setparentwithjump)
-* [sourceRectAtTime](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md#sourcerectattime)
+* [activeAtTime](avlayer-class.md#activeattime)
+* [applyPreset](avlayer-class.md#applypreset)
+* [audioActiveAtTime](avlayer-class.md#audioactiveattime)
+* [calculateTransformFromPoints](avlayer-class.md#calculatetransformfrompoints)
+* [copyToComp](avlayer-class.md#copytocomp)
+* [duplicate](avlayer-class.md#duplicate)
+* [effect](avlayer-class.md#effect)
+* [mask](avlayer-class.md#mask)
+* [moveAfter](avlayer-class.md#moveafter)
+* [moveBefore](avlayer-class.md#movebefore)
+* [moveToBeginning](avlayer-class.md#movetobeginning)
+* [moveToEnd](avlayer-class.md#movetoend)
+* [openInViewer](avlayer-class.md#openinviewer)
+* [property](avlayer-class.md#property)
+* [remove](avlayer-class.md#remove)
+* [replaceSource](avlayer-class.md#replacesource)
+* [setParentWithJump](avlayer-class.md#setparentwithjump)
+* [sourceRectAtTime](avlayer-class.md#sourcerectattime)
 
 ## 속성값
 
 ### Effects  <a id="effects"></a>
 
-**● Effects**: \_[Property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md)\_
+**● Effects**: \_[Property](../property-api/property-class.md)\_
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[Effects](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#effects)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[Effects](layer-class.md#effects)\_
 
 ### active  <a id="active"></a>
 
 **● active**: `boolean`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[active](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#active)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[active](layer-class.md#active)\_
 
 해당 레이어의 활성 여부를 가져옵니다.
 
@@ -119,14 +120,13 @@
 
 ### autoOrient  <a id="autoorient"></a>
 
-**● autoOrient**: _\[AutoOrientType\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.autoorienttype.md\)\_
+**● autoOrient**: [AutoOrientType](../etc/enum/_affectscript_.affectscriptapi.autoorienttype.md)
 
 레이어의 방향값을 가져오거나 설정합니다.
 
 ### blendingMode  <a id="blendingmode"></a>
 
-**● blendingMode**: _\[BlendingMode\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.blendingmode.md\)\_
-
+**● blendingMode**: [BlendingMode](../etc/enum/_affectscript_.affectscriptapi.blendingmode.md)
 레이어에 적용된 블랜딩 모드를 가져오거나 새로 적용합니다.
 
 ### canSetCollapseTransformation  <a id="cansetcollapsetransformation"></a>
@@ -145,15 +145,15 @@
 
 **● comment**: `string`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[comment](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#comment)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[comment](layer-class.md#comment)\_
 
 레이어에 대한 설명을 설정하거나 가져옵니다.
 
 ### containingComp  <a id="containingcomp"></a>
 
-**● containingComp**: \_[CompItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md)\_
+**● containingComp**: \_[CompItem](../item-api/compitem-class.md)\_
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[containingComp](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#containingcomp)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[containingComp](layer-class.md#containingcomp)\_
 
 해당 레이어를 포함하고 있는 컴포지션 객체를 가져옵니다.
 
@@ -165,7 +165,7 @@
 
 **● enabled**: `boolean`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[enabled](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#enabled)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[enabled](layer-class.md#enabled)\_
 
 레이어의 사용가능 여부를 가져오거나 설정합니다.
 
@@ -181,7 +181,7 @@
 
 ### frameBlendingType  <a id="frameblendingtype"></a>
 
-**● frameBlendingType**: _\[FrameBlendingType\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.frameblendingtype.md\)\_
+**● frameBlendingType**: [FrameBlendingType](../etc/enum/_affectscript_.affectscriptapi.frameblendingtype.md)
 
 프레임 블랜딩 모드를 가져오거나 설정합니다.
 
@@ -205,7 +205,7 @@
 
 **● hasVideo**: `boolean`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[hasVideo](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#hasvideo)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[hasVideo](layer-class.md#hasvideo)\_
 
 레이어가 비디오 레이어를 가지고 있는지 여부를 가져옵니다.
 
@@ -219,13 +219,13 @@
 
 **● inPoint**: `number`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[inPoint](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#inpoint)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[inPoint](layer-class.md#inpoint)\_
 
 ### index  <a id="index"></a>
 
 **● index**: `number`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[index](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#index)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[index](layer-class.md#index)\_
 
 레이어의 위치를 가져옵니다.
 
@@ -237,7 +237,7 @@
 
 **● isNameSet**: `boolean`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[isNameSet](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#isnameset)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[isNameSet](layer-class.md#isnameset)\_
 
 ### isTrackMatte  <a id="istrackmatte"></a>
 
@@ -247,7 +247,7 @@
 
 **● locked**: `boolean`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[locked](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#locked)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[locked](layer-class.md#locked)\_
 
 레이어 잠금 여부를 가져오거나 설정합니다.
 
@@ -261,7 +261,7 @@
 
 **● name**: `string`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[name](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#name)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[name](layer-class.md#name)\_
 
 레이어의 이름을 가져오거나 설정합니다.
 
@@ -269,7 +269,7 @@
 
 **● nullLayer**: `boolean`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[nullLayer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#nulllayer)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[nullLayer](layer-class.md#nulllayer)\_
 
 레이어가 Null 레이어인지 여부를 가져옵니다.
 
@@ -277,15 +277,15 @@
 
 **● outPoint**: `number`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[outPoint](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#outpoint)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[outPoint](layer-class.md#outpoint)\_
 
 레이어의 끝날 시간을 설정하거나 가져옵니다.
 
 ### parent  <a id="parent"></a>
 
-**● parent**: \_[Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md)\_
+**● parent**: \_[Layer](layer-class.md)\_
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[parent](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#parent)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[parent](layer-class.md#parent)\_
 
 해당 레이어의 부모 레이어를 가져옵니다. 없다면 Null을 반환합니다.
 
@@ -295,15 +295,15 @@
 
 ### quality  <a id="quality"></a>
 
-**● quality**: _\[LayerQuality\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.layerquality.md\)\_
+**● quality**: _\[LayerQuality\]\(../etc/enum/_affectscript_.affectscriptapi.layerquality.md\)\_
 
 레이어의 미리보기 품질을 가져오거나 설정합니다.
 
 ### selectedProperties  <a id="selectedproperties"></a>
 
-**● selectedProperties**: \_[PropertyGroup](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertygroup-class.md)\_
+**● selectedProperties**: \_[PropertyGroup](../property-api/propertygroup-class.md)\_
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[selectedProperties](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#selectedproperties)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[selectedProperties](layer-class.md#selectedproperties)\_
 
 현재 레이어에 적용된 설정값을 모두 가져옵니다.
 
@@ -311,7 +311,7 @@
 
 **● shy**: `boolean`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[shy](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#shy)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[shy](layer-class.md#shy)\_
 
 레이어 숨김 여부를 가져오거나 설정합니다.
 
@@ -319,11 +319,11 @@
 
 **● solo**: `boolean`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[solo](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#solo)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[solo](layer-class.md#solo)\_
 
 ### source  <a id="source"></a>
 
-**● source**: \_[AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md)\_
+**● source**: \_[AVItem](../item-api/avitem-class.md)\_
 
 레이어의 원본 소스 객체를 가져옵니다.
 
@@ -331,7 +331,7 @@
 
 **● startTime**: `number`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[startTime](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#starttime)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[startTime](layer-class.md#starttime)\_
 
 레이어의 시작 시간을 가져오거나 설정합니다.
 
@@ -339,7 +339,7 @@
 
 **● stretch**: `number`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[stretch](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#stretch)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[stretch](layer-class.md#stretch)\_
 
 레이어가 시간 늘리기가 적용되어 있는지 여부를 가져오거나 설정합니다. \(100 : 보통\)
 
@@ -357,7 +357,7 @@
 
 **● time**: `number`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[time](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#time)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[time](layer-class.md#time)\_
 
 레이어의 시간 값을 가져옵니다.
 
@@ -367,7 +367,7 @@
 
 ### trackMatteType  <a id="trackmattetype"></a>
 
-**● trackMatteType**: _\[TrackMatteType\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.trackmattetype.md\)\_
+**● trackMatteType**: [TrackMatteType](../etc/enum/_affectscript_.affectscriptapi.trackmattetype.md)
 
 레이어에 적용된 트랙메트의 타입을 가져오거나 설정합니다.
 
@@ -383,7 +383,7 @@
 
 ▸ **activeAtTime**\(time: `number`\): `boolean`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[activeAtTime](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#activeattime)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[activeAtTime](layer-class.md#activeattime)\_
 
 특정 시간에 레이어가 활성화 되어있는지 여부를 확인합니다.
 
@@ -399,7 +399,7 @@
 
 ▸ **applyPreset**\(presetName: `string`\): `void`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[applyPreset](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#applypreset)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[applyPreset](layer-class.md#applypreset)\_
 
 레이어에 프리셋을 적용합니다.
 
@@ -425,23 +425,23 @@
 
 ### calculateTransformFromPoints  <a id="calculatetransformfrompoints"></a>
 
-▸ **calculateTransformFromPoints**\(pointTopLeft: _\[XYZ\]\(/javascript-api/api/etc/modules/\_affectscript_.affectscriptapi.md\#xyz\)_, pointTopRight:_ [XYZ](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/modules/_affectscript_.affectscriptapi.md#xyz)_, pointBottomRight:_ [XYZ](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/modules/_affectscript_.affectscriptapi.md#xyz)\_\): `Object`
+▸ **calculateTransformFromPoints**\(pointTopLeft: _[XYZ](../etc/modules/_affectscript_.affectscriptapi.md\#xyz\)_, pointTopRight:_ [XYZ](../etc/modules/_affectscript_.affectscriptapi.md#xyz)_, pointBottomRight:_ [XYZ](../etc/modules/_affectscript_.affectscriptapi.md#xyz)\_\): `Object`
 
 **매개변수:**
 
 | Name | Type |
 | :--- | :--- |
-| pointTopLeft | [XYZ](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/modules/_affectscript_.affectscriptapi.md#xyz) |
-| pointTopRight | [XYZ](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/modules/_affectscript_.affectscriptapi.md#xyz) |
-| pointBottomRight | [XYZ](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/modules/_affectscript_.affectscriptapi.md#xyz) |
+| pointTopLeft | [XYZ](../etc/modules/_affectscript_.affectscriptapi.md#xyz) |
+| pointTopRight | [XYZ](../etc/modules/_affectscript_.affectscriptapi.md#xyz) |
+| pointBottomRight | [XYZ](../etc/modules/_affectscript_.affectscriptapi.md#xyz) |
 
 **반환:** `Object`
 
 ### copyToComp  <a id="copytocomp"></a>
 
-▸ **copyToComp**\(intoComp: \_[CompItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md)\_\): `void`
+▸ **copyToComp**\(intoComp: \_[CompItem](../item-api/compitem-class.md)\_\): `void`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[copyToComp](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#copytocomp)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[copyToComp](layer-class.md#copytocomp)\_
 
 컴포지션에 레이어를 복사합니다.
 
@@ -449,23 +449,23 @@
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| intoComp | [CompItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/compitem-class.md) | 복사할 컴포지션 대상입니다. |
+| intoComp | [CompItem](../item-api/compitem-class.md) | 복사할 컴포지션 대상입니다. |
 
 ### duplicate  <a id="duplicate"></a>
 
-▸ **duplicate**\(\): [AVLayer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md)
+▸ **duplicate**\(\): [AVLayer](avlayer-class.md)
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[duplicate](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#duplicate)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[duplicate](layer-class.md#duplicate)\_
 
 레이어를 복제합니다.
 
-**반환:** [AVLayer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/avlayer-class.md)
+**반환:** [AVLayer](avlayer-class.md)
 
 ### effect  <a id="effect"></a>
 
 ▸ **effect**\(effectName: `string`\): `function`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[effect](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#effect)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[effect](layer-class.md#effect)\_
 
 레이어에 적용된 효과를 가져온 후, 설정값을 가져오거나 설정합니다.
 
@@ -479,9 +479,9 @@
 
 ### mask  <a id="mask"></a>
 
-▸ **mask**\(index: `number`\): [MaskPropertyGroup](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/maskpropertygroup-class.md)
+▸ **mask**\(index: `number`\): [MaskPropertyGroup](../property-api/maskpropertygroup-class.md)
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[mask](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#mask)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[mask](layer-class.md#mask)\_
 
 **매개변수:**
 
@@ -489,13 +489,13 @@
 | :--- | :--- |
 | index | `number` |
 
-**반환:** [MaskPropertyGroup](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/maskpropertygroup-class.md)
+**반환:** [MaskPropertyGroup](../property-api/maskpropertygroup-class.md)
 
 ### moveAfter  <a id="moveafter"></a>
 
-▸ **moveAfter**\(layer: \_[Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md)\_\): `void`
+▸ **moveAfter**\(layer: \_[Layer](layer-class.md)\_\): `void`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[moveAfter](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#moveafter)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[moveAfter](layer-class.md#moveafter)\_
 
 다음 레이어로 이동합니다.
 
@@ -503,13 +503,13 @@
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| layer | [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md) | 다음 레이어로 이동하기 전 레이어 객체입니다. |
+| layer | [Layer](layer-class.md) | 다음 레이어로 이동하기 전 레이어 객체입니다. |
 
 ### moveBefore  <a id="movebefore"></a>
 
-▸ **moveBefore**\(layer: \_[Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md)\_\): `void`
+▸ **moveBefore**\(layer: \_[Layer](layer-class.md)\_\): `void`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[moveBefore](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#movebefore)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[moveBefore](layer-class.md#movebefore)\_
 
 이전 레이어로 이동합니다.
 
@@ -517,13 +517,13 @@
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| layer | [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md) | 이전 레이어로 이동하기 전 레이어 객체입니다. |
+| layer | [Layer](layer-class.md) | 이전 레이어로 이동하기 전 레이어 객체입니다. |
 
 ### moveToBeginning  <a id="movetobeginning"></a>
 
 ▸ **moveToBeginning**\(\): `void`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[moveToBeginning](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#movetobeginning)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[moveToBeginning](layer-class.md#movetobeginning)\_
 
 처음 레이어로 이동합니다.
 
@@ -531,23 +531,23 @@
 
 ▸ **moveToEnd**\(\): `void`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[moveToEnd](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#movetoend)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[moveToEnd](layer-class.md#movetoend)\_
 
 마지막 레이어로 이동합니다.
 
 ### openInViewer  <a id="openinviewer"></a>
 
-▸ **openInViewer**\(\): [Viewer](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/layer-api/after-effects-api/viewer-class.md)
+▸ **openInViewer**\(\): [Viewer](../after-effects-api/viewer-class.md)
 
 레이어를 엽니다.
 
-**반환:** [Viewer](https://github.com/AffectScript/affectscript-docs/tree/cc53997f0c2a35c1b6f4a951793e20fd7136e52a/javascript-api/layer-api/after-effects-api/viewer-class.md)
+**반환:** [Viewer](../after-effects-api/viewer-class.md)
 
 ### property  <a id="property"></a>
 
-▸ **property**\(propertyName: `String`\): [Property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md)
+▸ **property**\(propertyName: `String`\): [Property](../property-api/property-class.md)
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#property)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[property](layer-class.md#property)\_
 
 레이어의 속성 그룹 혹은 값을 가져옵니다.
 
@@ -557,19 +557,19 @@
 | :--- | :--- | :--- |
 | propertyName | `String` | 속성 이름입니다. |
 
-**반환:** [Property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md)
+**반환:** [Property](../property-api/property-class.md)
 
 ### remove  <a id="remove"></a>
 
 ▸ **remove**\(\): `void`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[remove](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#remove)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[remove](layer-class.md#remove)\_
 
 레이어를 제거합니다.
 
 ### replaceSource  <a id="replacesource"></a>
 
-▸ **replaceSource**\(newSource: [_AVItem_](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md), fixExpressions: \_`boolean`\_\): `void`
+▸ **replaceSource**\(newSource: [_AVItem_](../item-api/avitem-class.md), fixExpressions: \_`boolean`\_\): `void`
 
 레이어의 원본 파일을 변경합니다.
 
@@ -577,14 +577,14 @@
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| newSource | [AVItem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/item/avitem-class.md) | 변경할 아이템입니다. |
+| newSource | [AVItem](../item-api/avitem-class.md) | 변경할 아이템입니다. |
 | fixExpressions | `boolean` |  |
 
 ### setParentWithJump  <a id="setparentwithjump"></a>
 
-▸ **setParentWithJump**\(newParent?: \_[Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md)\_\): `any`
+▸ **setParentWithJump**\(newParent?: \_[Layer](layer-class.md)\_\): `any`
 
-\_부모로부터 상속됨 : [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md).[setParentWithJump](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md#setparentwithjump)\_
+\_부모로부터 상속됨 : [Layer](layer-class.md).[setParentWithJump](layer-class.md#setparentwithjump)\_
 
 해당 레이어의 새로운 부모 레이어를 설정합니다.
 
@@ -592,13 +592,13 @@
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| `Optional` newParent | [Layer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/layer/layer-class.md) | 새로 할당할 부모 레이어 객체입니다. |
+| `Optional` newParent | [Layer](layer-class.md) | 새로 할당할 부모 레이어 객체입니다. |
 
 **반환:** `any`
 
 ### sourceRectAtTime  <a id="sourcerectattime"></a>
 
-▸ **sourceRectAtTime**\(timeT: `number`, extents: `boolean`\): [TopLeftWidthHeight](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/modules/_affectscript_.affectscriptapi.md#topleftwidthheight)
+▸ **sourceRectAtTime**\(timeT: `number`, extents: `boolean`\): [TopLeftWidthHeight](../etc/modules/_affectscript_.affectscriptapi.md#topleftwidthheight)
 
 **매개변수:**
 
@@ -607,5 +607,5 @@
 | timeT | `number` |
 | extents | `boolean` |
 
-**반환:** [TopLeftWidthHeight](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/modules/_affectscript_.affectscriptapi.md#topleftwidthheight)
+**반환:** [TopLeftWidthHeight](../etc/modules/_affectscript_.affectscriptapi.md#topleftwidthheight)
 

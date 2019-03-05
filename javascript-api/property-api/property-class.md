@@ -2,7 +2,7 @@
 
 ## 구조
 
-↳ [PropertyGroup](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertygroup-class.md)
+↳ [PropertyGroup](propertygroup-class.md)
 
 **↳ Property**
 
@@ -10,85 +10,85 @@
 
 ### 속성값
 
-* [active](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#active)
-* [canSetEnabled](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#cansetenabled)
-* [canSetExpression](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#cansetexpression)
-* [canVaryOverTime](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#canvaryovertime)
-* [dimensionsSeparated](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#dimensionsseparated)
-* [elided](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#elided)
-* [enabled](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#enabled)
-* [expression](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#expression)
-* [expressionEnabled](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#expressionenabled)
-* [expressionError](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#expressionerror)
-* [hasMax](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#hasmax)
-* [hasMin](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#hasmin)
-* [isEffect](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#iseffect)
-* [isMask](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#ismask)
-* [isModified](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#ismodified)
-* [isSeparationFollower](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#isseparationfollower)
-* [isSeparationLeader](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#isseparationleader)
-* [isSpatial](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#isspatial)
-* [isTimeVarying](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#istimevarying)
-* [matchName](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#matchname)
-* [maxValue](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#maxvalue)
-* [minValue](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#minvalue)
-* [name](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#name)
-* [numKeys](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#numkeys)
-* [numProperties](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#numproperties)
-* [parentProperty](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#parentproperty)
-* [propertyDepth](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#propertydepth)
-* [propertyIndex](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#propertyindex)
-* [propertyType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#propertytype)
-* [propertyValueType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#propertyvaluetype)
-* [selected](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#selected)
-* [selectedKeys](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#selectedkeys)
-* [separationDimension](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#separationdimension)
-* [separationLeader](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#separationleader)
-* [unitsText](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#unitstext)
-* [value](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#value)
+* [active](property-class.md#active)
+* [canSetEnabled](property-class.md#cansetenabled)
+* [canSetExpression](property-class.md#cansetexpression)
+* [canVaryOverTime](property-class.md#canvaryovertime)
+* [dimensionsSeparated](property-class.md#dimensionsseparated)
+* [elided](property-class.md#elided)
+* [enabled](property-class.md#enabled)
+* [expression](property-class.md#expression)
+* [expressionEnabled](property-class.md#expressionenabled)
+* [expressionError](property-class.md#expressionerror)
+* [hasMax](property-class.md#hasmax)
+* [hasMin](property-class.md#hasmin)
+* [isEffect](property-class.md#iseffect)
+* [isMask](property-class.md#ismask)
+* [isModified](property-class.md#ismodified)
+* [isSeparationFollower](property-class.md#isseparationfollower)
+* [isSeparationLeader](property-class.md#isseparationleader)
+* [isSpatial](property-class.md#isspatial)
+* [isTimeVarying](property-class.md#istimevarying)
+* [matchName](property-class.md#matchname)
+* [maxValue](property-class.md#maxvalue)
+* [minValue](property-class.md#minvalue)
+* [name](property-class.md#name)
+* [numKeys](property-class.md#numkeys)
+* [numProperties](property-class.md#numproperties)
+* [parentProperty](property-class.md#parentproperty)
+* [propertyDepth](property-class.md#propertydepth)
+* [propertyIndex](property-class.md#propertyindex)
+* [propertyType](property-class.md#propertytype)
+* [propertyValueType](property-class.md#propertyvaluetype)
+* [selected](property-class.md#selected)
+* [selectedKeys](property-class.md#selectedkeys)
+* [separationDimension](property-class.md#separationdimension)
+* [separationLeader](property-class.md#separationleader)
+* [unitsText](property-class.md#unitstext)
+* [value](property-class.md#value)
 
 ### 사용 가능한 함수
 
-* [addKey](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#addkey)
-* [addProperty](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#addproperty)
-* [canAddProperty](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#canaddproperty)
-* [duplicated](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#duplicated)
-* [getSeoarationFollower](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#getseoarationfollower)
-* [isInterpolationTypeValid](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#isinterpolationtypevalid)
-* [keyInInterpolationType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#keyininterpolationtype)
-* [keyInTemporalEase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#keyintemporalease)
-* [keyInspatialTangent](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#keyinspatialtangent)
-* [keyOutInterpolationType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#keyoutinterpolationtype)
-* [keyOutSpatialTangent](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#keyoutspatialtangent)
-* [keyOutTemporalEase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#keyouttemporalease)
-* [keyRoving](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#keyroving)
-* [keySelected](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#keyselected)
-* [keySpatialAutoBezier](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#keyspatialautobezier)
-* [keySpatialContinuous](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#keyspatialcontinuous)
-* [keyTemporalAutoBezier](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#keytemporalautobezier)
-* [keyTemporalContinuous](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#keytemporalcontinuous)
-* [keyTime](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#keytime)
-* [keyValue](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#keyvalue)
-* [moveTo](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#moveto)
-* [nearestKeyIndex](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#nearestkeyindex)
-* [property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#property)
-* [propertyGroup](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#propertygroup)
-* [remove](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#remove)
-* [removeKey](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#removekey)
-* [setInterpolationTypeAtKey](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#setinterpolationtypeatkey)
-* [setRovingAtKey](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#setrovingatkey)
-* [setSelectedAtKey](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#setselectedatkey)
-* [setSpatialAutoBezierAtKey](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#setspatialautobezieratkey)
-* [setSpatialContinuousAtKey](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#setspatialcontinuousatkey)
-* [setSpatialTangentsAtKey](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#setspatialtangentsatkey)
-* [setTemporalAutoBezierAtKey](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#settemporalautobezieratkey)
-* [setTemporalContinuousAtKey](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#settemporalcontinuousatkey)
-* [setTemporalEaseAtKey](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#settemporaleaseatkey)
-* [setValue](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#setvalue)
-* [setValueAtKey](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#setvalueatkey)
-* [setValueAtTime](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#setvalueattime)
-* [setValuesAtTimes](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#setvaluesattimes)
-* [valueAtTime](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md#valueattime)
+* [addKey](property-class.md#addkey)
+* [addProperty](property-class.md#addproperty)
+* [canAddProperty](property-class.md#canaddproperty)
+* [duplicated](property-class.md#duplicated)
+* [getSeoarationFollower](property-class.md#getseoarationfollower)
+* [isInterpolationTypeValid](property-class.md#isinterpolationtypevalid)
+* [keyInInterpolationType](property-class.md#keyininterpolationtype)
+* [keyInTemporalEase](property-class.md#keyintemporalease)
+* [keyInspatialTangent](property-class.md#keyinspatialtangent)
+* [keyOutInterpolationType](property-class.md#keyoutinterpolationtype)
+* [keyOutSpatialTangent](property-class.md#keyoutspatialtangent)
+* [keyOutTemporalEase](property-class.md#keyouttemporalease)
+* [keyRoving](property-class.md#keyroving)
+* [keySelected](property-class.md#keyselected)
+* [keySpatialAutoBezier](property-class.md#keyspatialautobezier)
+* [keySpatialContinuous](property-class.md#keyspatialcontinuous)
+* [keyTemporalAutoBezier](property-class.md#keytemporalautobezier)
+* [keyTemporalContinuous](property-class.md#keytemporalcontinuous)
+* [keyTime](property-class.md#keytime)
+* [keyValue](property-class.md#keyvalue)
+* [moveTo](property-class.md#moveto)
+* [nearestKeyIndex](property-class.md#nearestkeyindex)
+* [property](property-class.md#property)
+* [propertyGroup](property-class.md#propertygroup)
+* [remove](property-class.md#remove)
+* [removeKey](property-class.md#removekey)
+* [setInterpolationTypeAtKey](property-class.md#setinterpolationtypeatkey)
+* [setRovingAtKey](property-class.md#setrovingatkey)
+* [setSelectedAtKey](property-class.md#setselectedatkey)
+* [setSpatialAutoBezierAtKey](property-class.md#setspatialautobezieratkey)
+* [setSpatialContinuousAtKey](property-class.md#setspatialcontinuousatkey)
+* [setSpatialTangentsAtKey](property-class.md#setspatialtangentsatkey)
+* [setTemporalAutoBezierAtKey](property-class.md#settemporalautobezieratkey)
+* [setTemporalContinuousAtKey](property-class.md#settemporalcontinuousatkey)
+* [setTemporalEaseAtKey](property-class.md#settemporaleaseatkey)
+* [setValue](property-class.md#setvalue)
+* [setValueAtKey](property-class.md#setvalueatkey)
+* [setValueAtTime](property-class.md#setvalueattime)
+* [setValuesAtTimes](property-class.md#setvaluesattimes)
+* [valueAtTime](property-class.md#valueattime)
 
 ## 속성값
 
@@ -96,7 +96,7 @@
 
 **● active**: `boolean`
 
-\_부모로부터 상속됨 : [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md).[active](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#active)\_
+\_부모로부터 상속됨 : [PropertyBase](propertybase-class.md).[active](propertybase-class.md#active)\_
 
 해당 레이어의 가시성 여부를 가져옵니다.
 
@@ -104,7 +104,7 @@
 
 **● canSetEnabled**: `boolean`
 
-\_부모로부터 상속됨 : [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md).[canSetEnabled](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#cansetenabled)\_
+\_부모로부터 상속됨 : [PropertyBase](propertybase-class.md).[canSetEnabled](propertybase-class.md#cansetenabled)\_
 
 ### canSetExpression <a id="cansetexpression"></a>
 
@@ -124,7 +124,7 @@
 
 **● elided**: `boolean`
 
-\_부모로부터 상속됨 : [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md).[elided](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#elided)\_
+\_부모로부터 상속됨 : [PropertyBase](propertybase-class.md).[elided](propertybase-class.md#elided)\_
 
 레이어가 숨김 레이어인지 가져옵니다.
 
@@ -132,7 +132,7 @@
 
 **● enabled**: `boolean`
 
-\_부모로부터 상속됨 : [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md).[enabled](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#enabled)\_
+\_부모로부터 상속됨 : [PropertyBase](propertybase-class.md).[enabled](propertybase-class.md#enabled)\_
 
 ### expression <a id="expression"></a>
 
@@ -164,7 +164,7 @@
 
 **● isEffect**: `boolean`
 
-\_부모로부터 상속됨 : [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md).[isEffect](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#iseffect)\_
+\_부모로부터 상속됨 : [PropertyBase](propertybase-class.md).[isEffect](propertybase-class.md#iseffect)\_
 
 속성값이 효과인지 여부를 가져옵니다.
 
@@ -172,7 +172,7 @@
 
 **● isMask**: `boolean`
 
-\_부모로부터 상속됨 : [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md).[isMask](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#ismask)\_
+\_부모로부터 상속됨 : [PropertyBase](propertybase-class.md).[isMask](propertybase-class.md#ismask)\_
 
 속성값이 마스크인지 여부를 가져옵니다.
 
@@ -180,7 +180,7 @@
 
 **● isModified**: `boolean`
 
-\_부모로부터 상속됨 : [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md).[isModified](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#ismodified)\_
+\_부모로부터 상속됨 : [PropertyBase](propertybase-class.md).[isModified](propertybase-class.md#ismodified)\_
 
 속성값이 수정되었는지 확인합니다.
 
@@ -204,7 +204,7 @@
 
 **● matchName**: `String`
 
-\_부모로부터 상속됨 : [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md).[matchName](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#matchname)\_
+\_부모로부터 상속됨 : [PropertyBase](propertybase-class.md).[matchName](propertybase-class.md#matchname)\_
 
 ### maxValue <a id="maxvalue"></a>
 
@@ -222,7 +222,7 @@
 
 **● name**: `String`
 
-\_부모로부터 상속됨 : [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md).[name](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#name)\_
+\_부모로부터 상속됨 : [PropertyBase](propertybase-class.md).[name](propertybase-class.md#name)\_
 
 속성값의 이름을 가져오거나 설정합니다.
 
@@ -236,15 +236,15 @@
 
 **● numProperties**: `number`
 
-\_부모로부터 상속됨 : [PropertyGroup](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertygroup-class.md).[numProperties](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertygroup-class.md#numproperties)\_
+\_부모로부터 상속됨 : [PropertyGroup](propertygroup-class.md).[numProperties](propertygroup-class.md#numproperties)\_
 
 속성 그룹에 사용할 수 있는 속성의 개수를 가져옵니다.
 
 ### parentProperty <a id="parentproperty"></a>
 
-**● parentProperty**: \_[PropertyGroup](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertygroup-class.md)\_
+**● parentProperty**: \_[PropertyGroup](propertygroup-class.md)\_
 
-\_부모로부터 상속됨 : [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md).[parentProperty](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#parentproperty)\_
+\_부모로부터 상속됨 : [PropertyBase](propertybase-class.md).[parentProperty](propertybase-class.md#parentproperty)\_
 
 해당 속성값이 어떤 속성 그룹에 포함되어있는지 가져옵니다.
 
@@ -252,27 +252,27 @@
 
 **● propertyDepth**: `number`
 
-\_부모로부터 상속됨 : [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md).[propertyDepth](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#propertydepth)\_
+\_부모로부터 상속됨 : [PropertyBase](propertybase-class.md).[propertyDepth](propertybase-class.md#propertydepth)\_
 
 ### propertyIndex <a id="propertyindex"></a>
 
 **● propertyIndex**: `number`
 
-\_Overrides [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md).[propertyIndex](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#propertyindex)\_
+\_Overrides [PropertyBase](propertybase-class.md).[propertyIndex](propertybase-class.md#propertyindex)\_
 
 속성 값의 위치를 가져옵니다.
 
 ### propertyType <a id="propertytype"></a>
 
-**● propertyType**: _\[PropertyType\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.propertytype.md\)\_
+**● propertyType**: [PropertyType\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.propertytype.md)
 
-\_부모로부터 상속됨 : [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md).[propertyType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#propertytype)\_
+\_부모로부터 상속됨 : [PropertyBase](propertybase-class.md).[propertyType](propertybase-class.md#propertytype)\_
 
 속성 값의 타입을 가져옵니다.
 
 ### propertyValueType <a id="propertyvaluetype"></a>
 
-**● propertyValueType**: _\[PropertyValueType\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.propertyvaluetype.md\)\_
+**● propertyValueType**: [PropertyValueType\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.propertyvaluetype.md)
 
 속성의 종류를 가져오거나 설정합니다.
 
@@ -280,13 +280,13 @@
 
 **● selected**: `boolean`
 
-\_부모로부터 상속됨 : [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md).[selected](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#selected)\_
+\_부모로부터 상속됨 : [PropertyBase](propertybase-class.md).[selected](propertybase-class.md#selected)\_
 
 해당 속성값을 선택하고 있는지 여부를 가져오거나 설정합니다.
 
 ### selectedKeys <a id="selectedkeys"></a>
 
-**● selectedKeys**: `number`_\[\]_
+**● selectedKeys**: `number`[\]_
 
 선택된 모든 키의 위치를 가져옵니다.
 
@@ -296,7 +296,7 @@
 
 ### separationLeader <a id="separationleader"></a>
 
-**● separationLeader**: \_[Property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md)\_
+**● separationLeader**: \_[Property](property-class.md)\_
 
 ### unitsText <a id="unitstext"></a>
 
@@ -326,9 +326,9 @@
 
 ### addProperty <a id="addproperty"></a>
 
-▸ **addProperty**\(name: `string`\): [Property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md)
+▸ **addProperty**\(name: `string`\): [Property](property-class.md)
 
-\_부모로부터 상속됨 : [PropertyGroup](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertygroup-class.md).[addProperty](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertygroup-class.md#addproperty)\_
+\_부모로부터 상속됨 : [PropertyGroup](propertygroup-class.md).[addProperty](propertygroup-class.md#addproperty)\_
 
 속성 그룹을 추가합니다.
 
@@ -338,13 +338,13 @@
 | :--- | :--- | :--- |
 | name | `string` | 추가할 속성 그룹입니다. |
 
-**반환:** [Property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md)
+**반환:** [Property](property-class.md)
 
 ### canAddProperty <a id="canaddproperty"></a>
 
 ▸ **canAddProperty**\(name: `string`\): `boolean`
 
-\_부모로부터 상속됨 : [PropertyGroup](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertygroup-class.md).[canAddProperty](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertygroup-class.md#canaddproperty)\_
+\_부모로부터 상속됨 : [PropertyGroup](propertygroup-class.md).[canAddProperty](propertygroup-class.md#canaddproperty)\_
 
 속성 값을 적용할 수 있는지 여부를 확인합니다.
 
@@ -358,17 +358,17 @@
 
 ### duplicated <a id="duplicated"></a>
 
-▸ **duplicated**\(\): [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md)
+▸ **duplicated**\(\): [PropertyBase](propertybase-class.md)
 
-\_부모로부터 상속됨 : [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md).[duplicated](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#duplicated)\_
+\_부모로부터 상속됨 : [PropertyBase](propertybase-class.md).[duplicated](propertybase-class.md#duplicated)\_
 
 설정값을 복제합니다.
 
-**반환:** [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md)
+**반환:** [PropertyBase](propertybase-class.md)
 
 ### getSeoarationFollower <a id="getseoarationfollower"></a>
 
-▸ **getSeoarationFollower**\(dim: `number`\): [Property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md)
+▸ **getSeoarationFollower**\(dim: `number`\): [Property](property-class.md)
 
 **매개변수:**
 
@@ -376,23 +376,23 @@
 | :--- | :--- |
 | dim | `number` |
 
-**반환:** [Property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md)
+**반환:** [Property](property-class.md)
 
 ### isInterpolationTypeValid <a id="isinterpolationtypevalid"></a>
 
-▸ **isInterpolationTypeValid**\(type: _\[KeyframeInterpolationType\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.keyframeinterpolationtype.md\)\_\): `boolean`
+▸ **isInterpolationTypeValid**\(type: [KeyframeInterpolationType\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.keyframeinterpolationtype.md)\): `boolean`
 
 **매개변수:**
 
 | Name | Type |
 | :--- | :--- |
-| type | [KeyframeInterpolationType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/enums/_affectscript_.affectscriptapi.keyframeinterpolationtype.md) |
+| type | [KeyframeInterpolationType](../etc/enum/_affectscript_.affectscriptapi.keyframeinterpolationtype.md) |
 
 **반환:** `boolean`
 
 ### keyInInterpolationType <a id="keyininterpolationtype"></a>
 
-▸ **keyInInterpolationType**\(keyIndex: `number`\): [KeyframeInterpolationType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/enums/_affectscript_.affectscriptapi.keyframeinterpolationtype.md)
+▸ **keyInInterpolationType**\(keyIndex: `number`\): [KeyframeInterpolationType](../etc/enum/_affectscript_.affectscriptapi.keyframeinterpolationtype.md)
 
 키프레임의 애니메이션 그래프 종류를 선택합니다.
 
@@ -402,11 +402,11 @@
 | :--- | :--- | :--- |
 | keyIndex | `number` | 종류입니다. |
 
-**반환:** [KeyframeInterpolationType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/enums/_affectscript_.affectscriptapi.keyframeinterpolationtype.md)
+**반환:** [KeyframeInterpolationType](../etc/enum/_affectscript_.affectscriptapi.keyframeinterpolationtype.md)
 
 ### keyInTemporalEase <a id="keyintemporalease"></a>
 
-▸ **keyInTemporalEase**\(keytIndex: `number`\): [KeyframeEase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/keyframe/keyframeease-class.md)\[\]
+▸ **keyInTemporalEase**\(keytIndex: `number`\): [KeyframeEase](../keyframe-api/keyframeease-class.md)\[\]
 
 **매개변수:**
 
@@ -414,7 +414,7 @@
 | :--- | :--- |
 | keytIndex | `number` |
 
-**반환:** [KeyframeEase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/keyframe/keyframeease-class.md)\[\]
+**반환:** [KeyframeEase](../keyframe-api/keyframeease-class.md)\[\]
 
 ### keyInspatialTangent <a id="keyinspatialtangent"></a>
 
@@ -430,7 +430,7 @@
 
 ### keyOutInterpolationType <a id="keyoutinterpolationtype"></a>
 
-▸ **keyOutInterpolationType**\(keyIndex: `number`\): [KeyframeInterpolationType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/enums/_affectscript_.affectscriptapi.keyframeinterpolationtype.md)
+▸ **keyOutInterpolationType**\(keyIndex: `number`\): [KeyframeInterpolationType](../etc/enum/_affectscript_.affectscriptapi.keyframeinterpolationtype.md)
 
 **매개변수:**
 
@@ -438,7 +438,7 @@
 | :--- | :--- |
 | keyIndex | `number` |
 
-**반환:** [KeyframeInterpolationType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/enums/_affectscript_.affectscriptapi.keyframeinterpolationtype.md)
+**반환:** [KeyframeInterpolationType](../etc/enum/_affectscript_.affectscriptapi.keyframeinterpolationtype.md)
 
 ### keyOutSpatialTangent <a id="keyoutspatialtangent"></a>
 
@@ -454,7 +454,7 @@
 
 ### keyOutTemporalEase <a id="keyouttemporalease"></a>
 
-▸ **keyOutTemporalEase**\(keyIndex: `number`\): [KeyframeEase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/keyframe/keyframeease-class.md)
+▸ **keyOutTemporalEase**\(keyIndex: `number`\): [KeyframeEase](../keyframe-api/keyframeease-class.md)
 
 **매개변수:**
 
@@ -462,7 +462,7 @@
 | :--- | :--- |
 | keyIndex | `number` |
 
-**반환:** [KeyframeEase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/keyframe/keyframeease-class.md)
+**반환:** [KeyframeEase](../keyframe-api/keyframeease-class.md)
 
 ### keyRoving <a id="keyroving"></a>
 
@@ -552,7 +552,7 @@
 
 ### keyValue <a id="keyvalue"></a>
 
-▸ **keyValue**\(keyIndex: `number`\): [MarkerValue](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/marker/markervalue-class.md)
+▸ **keyValue**\(keyIndex: `number`\): [MarkerValue](../marker-api/markervalue-class.md)
 
 키 값을 가져옵니다.
 
@@ -562,13 +562,13 @@
 | :--- | :--- | :--- |
 | keyIndex | `number` | 키 위치입니다. |
 
-**반환:** [MarkerValue](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/marker/markervalue-class.md)
+**반환:** [MarkerValue](../marker-api/markervalue-class.md)
 
 ### moveTo <a id="moveto"></a>
 
 ▸ **moveTo**\(newIndex: `number`\): `void`
 
-\_부모로부터 상속됨 : [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md).[moveTo](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#moveto)\_
+\_부모로부터 상속됨 : [PropertyBase](propertybase-class.md).[moveTo](propertybase-class.md#moveto)\_
 
 **매개변수:**
 
@@ -592,9 +592,9 @@
 
 ### property <a id="property"></a>
 
-▸ **property**\(param: `number` _\|_ `string`\): [Property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md)
+▸ **property**\(param: `number` _\|_ `string`\): [Property](property-class.md)
 
-\_부모로부터 상속됨 : [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md).[property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#property)\_
+\_부모로부터 상속됨 : [PropertyBase](propertybase-class.md).[property](propertybase-class.md#property)\_
 
 속성 값을 가져옵니다.
 
@@ -604,13 +604,13 @@
 | :--- | :--- | :--- |
 | param | `number` \| `string` | 가져올 속성값입니다. |
 
-**반환:** [Property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md)
+**반환:** [Property](property-class.md)
 
 ### propertyGroup <a id="propertygroup"></a>
 
-▸ **propertyGroup**\(countUp?: `number`\): [PropertyGroup](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertygroup-class.md)
+▸ **propertyGroup**\(countUp?: `number`\): [PropertyGroup](propertygroup-class.md)
 
-\_부모로부터 상속됨 : [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md).[propertyGroup](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#propertygroup)\_
+\_부모로부터 상속됨 : [PropertyBase](propertybase-class.md).[propertyGroup](propertybase-class.md#propertygroup)\_
 
 속성 값의 그룹 데이터를 가져옵니다.
 
@@ -620,13 +620,13 @@
 | :--- | :--- | :--- |
 | `Optional` countUp | `number` | 옵션값입니다. 상위 계층을 얼만큼 거슬러 올라갈지 입니다. |
 
-**반환:** [PropertyGroup](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertygroup-class.md)
+**반환:** [PropertyGroup](propertygroup-class.md)
 
 ### remove <a id="remove"></a>
 
 ▸ **remove**\(\): `any`
 
-\_부모로부터 상속됨 : [PropertyBase](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md).[remove](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/propertybase-class.md#remove)\_
+\_부모로부터 상속됨 : [PropertyBase](propertybase-class.md).[remove](propertybase-class.md#remove)\_
 
 속성 값을 제거합니다.
 
@@ -646,15 +646,15 @@
 
 ### setInterpolationTypeAtKey <a id="setinterpolationtypeatkey"></a>
 
-▸ **setInterpolationTypeAtKey**\(keyIndex: `number`, inType: _\[KeyframeInterpolationType\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.keyframeinterpolationtype.md\)_, outType?:_ [KeyframeInterpolationType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/enums/_affectscript_.affectscriptapi.keyframeinterpolationtype.md)\_\): `void`
+▸ **setInterpolationTypeAtKey**\(keyIndex: `number`, inType: [KeyframeInterpolationType\]\(/javascript-api/api/etc/enums/\_affectscript_.affectscriptapi.keyframeinterpolationtype.md\)_, outType?:_ [KeyframeInterpolationType](../etc/enum/_affectscript_.affectscriptapi.keyframeinterpolationtype.md)\_\): `void`
 
 **매개변수:**
 
 | Name | Type |
 | :--- | :--- |
 | keyIndex | `number` |
-| inType | [KeyframeInterpolationType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/enums/_affectscript_.affectscriptapi.keyframeinterpolationtype.md) |
-| `Optional` outType | [KeyframeInterpolationType](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/etc/enums/_affectscript_.affectscriptapi.keyframeinterpolationtype.md) |
+| inType | [KeyframeInterpolationType](../etc/enum/_affectscript_.affectscriptapi.keyframeinterpolationtype.md) |
+| `Optional` outType | [KeyframeInterpolationType](../etc/enum/_affectscript_.affectscriptapi.keyframeinterpolationtype.md) |
 
 ### setRovingAtKey <a id="setrovingatkey"></a>
 
@@ -704,7 +704,7 @@
 
 ### setSpatialTangentsAtKey <a id="setspatialtangentsatkey"></a>
 
-▸ **setSpatialTangentsAtKey**\(keyIndex: `number`, inTangent: `number`_\[\]_, outTangent?: `number`\): `void`
+▸ **setSpatialTangentsAtKey**\(keyIndex: `number`, inTangent: `number`[\]_, outTangent?: `number`\): `void`
 
 **매개변수:**
 
@@ -738,7 +738,7 @@
 
 ### setTemporalEaseAtKey <a id="settemporaleaseatkey"></a>
 
-▸ **setTemporalEaseAtKey**\(keyIndex: `number`, inTemporalEase: `number`_\[\]_, outTemporalEase?: `number`_\[\]_\): `void`
+▸ **setTemporalEaseAtKey**\(keyIndex: `number`, inTemporalEase: `number`[\]_, outTemporalEase?: `number`[\]_\): `void`
 
 애니메이션 Ease-In, Ease-Out을 사용하여 키프레임을 생성합니다.
 
@@ -752,7 +752,7 @@
 
 ### setValue <a id="setvalue"></a>
 
-▸ **setValue**\(newValue: `number` _\|_ `string` _\|_ `number`_\[\] \|_ `string`_\[\] \|_ `any` _\|_ `any`_\[\]_\): `void`
+▸ **setValue**\(newValue: `number` _\|_ `string` _\|_ `number`[\] \|_ `string`[\] \|_ `any` _\|_ `any`[\]_\): `void`
 
 값을 설정합니다.
 
@@ -790,7 +790,7 @@
 
 ### setValuesAtTimes <a id="setvaluesattimes"></a>
 
-▸ **setValuesAtTimes**\(times: `number`_\[\]_, newValues: `number` _\|_ `string`\): `void`
+▸ **setValuesAtTimes**\(times: `number`[\]_, newValues: `number` _\|_ `string`\): `void`
 
 **매개변수:**
 
@@ -801,7 +801,7 @@
 
 ### valueAtTime <a id="valueattime"></a>
 
-▸ **valueAtTime**\(time: `number`, preExpression: `string`\): [Property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md)
+▸ **valueAtTime**\(time: `number`, preExpression: `string`\): [Property](property-class.md)
 
 **매개변수:**
 
@@ -810,5 +810,5 @@
 | time | `number` |
 | preExpression | `string` |
 
-**반환:** [Property](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/property/property-class.md)
+**반환:** [Property](property-class.md)
 

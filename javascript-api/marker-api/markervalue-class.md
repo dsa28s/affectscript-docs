@@ -8,28 +8,28 @@
 
 ### 생성자
 
-* [constructor](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/marker/markervalue-class.md#constructor)
+* [constructor](markervalue-class.md#constructor)
 
 ### 속성값
 
-* [chapter](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/marker/markervalue-class.md#chapter)
-* [comment](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/marker/markervalue-class.md#comment)
-* [cuePointName](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/marker/markervalue-class.md#cuepointname)
-* [duration](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/marker/markervalue-class.md#duration)
-* [eventCuePoint](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/marker/markervalue-class.md#eventcuepoint)
-* [frameTarget](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/marker/markervalue-class.md#frametarget)
-* [url](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/marker/markervalue-class.md#url)
+* [chapter](markervalue-class.md#chapter)
+* [comment](markervalue-class.md#comment)
+* [cuePointName](markervalue-class.md#cuepointname)
+* [duration](markervalue-class.md#duration)
+* [eventCuePoint](markervalue-class.md#eventcuepoint)
+* [frameTarget](markervalue-class.md#frametarget)
+* [url](markervalue-class.md#url)
 
 ### 사용 가능한 함수
 
-* [getParameters](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/marker/markervalue-class.md#getparameters)
-* [setParameters](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/marker/markervalue-class.md#setparameters)
+* [getParameters](markervalue-class.md#getparameters)
+* [setParameters](markervalue-class.md#setparameters)
 
 ## 생성자
 
 ### constructor <a id="constructor"></a>
 
-⊕ **new MarkerValue**\(comment: `String`, chapter: `String`, url: `String`, frameTarget: `String`, curPointName: `String`, params: `Object`_\[\]_\): [MarkerValue](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/marker/markervalue-class.md)
+⊕ **new MarkerValue**\(comment: `String`, chapter: `String`, url: `String`, frameTarget: `String`, curPointName: `String`, params: `Object`_\[\]_\): [MarkerValue](markervalue-class.md)
 
 **매개변수:**
 
@@ -42,7 +42,7 @@
 | curPointName | `String` |
 | params | `Object`\[\] |
 
-**반환:** [MarkerValue](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/marker/markervalue-class.md)
+**반환:** [MarkerValue](markervalue-class.md)
 
 ## 속성값
 
