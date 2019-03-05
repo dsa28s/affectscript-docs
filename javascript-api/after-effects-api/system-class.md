@@ -4,14 +4,14 @@
 
 ### 속성값퍄
 
-* [machineName](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/system-class.md#machinename)
-* [osName](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/system-class.md#osname)
-* [osVersion](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/system-class.md#osversion)
-* [userName](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/system-class.md#username)
+* [machineName](after-effects-api/system-class.md#machinename)
+* [osName](after-effects-api/system-class.md#osname)
+* [osVersion](after-effects-api/system-class.md#osversion)
+* [userName](after-effects-api/system-class.md#username)
 
 ### 사용 가능한 함수
 
-* [callSystem](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/system-class.md#callsystem)
+* [callSystem](after-effects-api/system-class.md#callsystem)
 
 ## 속성값
 

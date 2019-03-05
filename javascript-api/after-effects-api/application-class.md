@@ -4,59 +4,59 @@
 
 ### 생성자
 
-* [constructor](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#constructor)
+* [constructor](application-class.md#constructor)
 
 ### 속성값
 
-* [activeViewer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#activeviewer)
-* [buildName](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#buildname)
-* [buildNumber](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#buildnumber)
-* [effects](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#effects)
-* [exitAfterLaunchAndEval](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#exitafterlaunchandeval)
-* [exitCode](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#exitcode)
-* [isRenderEngine](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#isrenderengine)
-* [isWatchFolder](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#iswatchfolder)
-* [isoLanguage](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#isolanguage)
-* [memoryInUse](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#memoryinuse)
-* [onError](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#onerror)
-* [project](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#project)
-* [saveProjectOnCrash](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#saveprojectoncrash)
-* [settings](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#settings)
-* [version](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#version-1)
+* [activeViewer](application-class.md#activeviewer)
+* [buildName](application-class.md#buildname)
+* [buildNumber](application-class.md#buildnumber)
+* [effects](application-class.md#effects)
+* [exitAfterLaunchAndEval](application-class.md#exitafterlaunchandeval)
+* [exitCode](application-class.md#exitcode)
+* [isRenderEngine](application-class.md#isrenderengine)
+* [isWatchFolder](application-class.md#iswatchfolder)
+* [isoLanguage](application-class.md#isolanguage)
+* [memoryInUse](application-class.md#memoryinuse)
+* [onError](application-class.md#onerror)
+* [project](application-class.md#project)
+* [saveProjectOnCrash](application-class.md#saveprojectoncrash)
+* [settings](application-class.md#settings)
+* [version](application-class.md#version-1)
 
 ### 사용 가능한 함수
 
-* [activate](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#activate)
-* [beginSuppressDialogs](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#beginsuppressdialogs)
-* [beginUndoGroup](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#beginundogroup)
-* [cancelTask](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#canceltask)
-* [endSuppressDialogs](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#endsuppressdialogs)
-* [endUndoGroup](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#endundogroup)
-* [endWatchFolder](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#endwatchfolder)
-* [newProject](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#newproject)
-* [open](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#open)
-* [parseSwatchFile](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#parseswatchfile)
-* [pauseWatchFolder](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#pausewatchfolder)
-* [purge](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#purge)
-* [quit](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#quit)
-* [scheduleTask](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#scheduletask)
-* [setMemoryUsageLimits](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#setmemoryusagelimits)
-* [setSavePreferencesOnQuit](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#setsavepreferencesonquit)
-* [watchFolder](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md#watchfolder)
+* [activate](application-class.md#activate)
+* [beginSuppressDialogs](application-class.md#beginsuppressdialogs)
+* [beginUndoGroup](application-class.md#beginundogroup)
+* [cancelTask](application-class.md#canceltask)
+* [endSuppressDialogs](application-class.md#endsuppressdialogs)
+* [endUndoGroup](application-class.md#endundogroup)
+* [endWatchFolder](application-class.md#endwatchfolder)
+* [newProject](application-class.md#newproject)
+* [open](application-class.md#open)
+* [parseSwatchFile](application-class.md#parseswatchfile)
+* [pauseWatchFolder](application-class.md#pausewatchfolder)
+* [purge](application-class.md#purge)
+* [quit](application-class.md#quit)
+* [scheduleTask](application-class.md#scheduletask)
+* [setMemoryUsageLimits](application-class.md#setmemoryusagelimits)
+* [setSavePreferencesOnQuit](application-class.md#setsavepreferencesonquit)
+* [watchFolder](application-class.md#watchfolder)
 
 ## 생성자
 
 ### constructor <a id="constructor"></a>
 
-⊕ **new Application**\(\): [`Application`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md)
+⊕ **new Application**\(\): [`Application`](application-class.md)
 
-**반환:** [`Application`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/application-class.md)
+**반환:** [`Application`](application-class.md)
 
 ## 속성값
 
 ### activeViewer <a id="activeviewer"></a>
 
-**● activeViewer**: [`Viewer`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/viewer-class.md)
+**● activeViewer**: [`Viewer`](after-effects-api/viewer-class.md)
 
 현재 활성화 된 뷰어 객체를 가져옵니다.
 
@@ -134,7 +134,7 @@ After Effects가 비정상적으로 종료되었을 때 현재 열려있는 프�
 
 ### settings <a id="settings"></a>
 
-**● settings**: [`Settings`](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/settings-class.md)
+**● settings**: [`Settings`](after-effects-api/settings-class.md)
 
 현재 로드된 환경설정 값을 객체로 가져옵니다.
 

@@ -4,9 +4,9 @@
 
 ### 사용 가능한 함수
 
-* [getSetting](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/settings-class.md#getsetting)
-* [haveSetting](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/settings-class.md#havesetting)
-* [saveSetting](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/settings-class.md#savesetting)
+* [getSetting](after-effects-api/settings-class.md#getsetting)
+* [haveSetting](after-effects-api/settings-class.md#havesetting)
+* [saveSetting](after-effects-api/settings-class.md#savesetting)
 
 ## 사용 가능한 함수
 

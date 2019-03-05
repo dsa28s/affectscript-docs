@@ -383,11 +383,11 @@ Draft 3D 모드 활성화 여부를 설정하거나 가져옵니다.
 
 ### openInViewer <a id="openinviewer"></a>
 
-▸ **openInViewer**\(\): [Viewer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/viewer-class.md)
+▸ **openInViewer**\(\): [Viewer](after-effects-api/viewer-class.md)
 
 컴포지션을 엽니다.
 
-**반환:** [Viewer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/viewer-class.md)
+**반환:** [Viewer](after-effects-api/viewer-class.md)
 
 ### remove <a id="remove"></a>
 

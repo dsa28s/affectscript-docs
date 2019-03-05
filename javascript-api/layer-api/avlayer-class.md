@@ -537,11 +537,11 @@
 
 ### openInViewer <a id="openinviewer"></a>
 
-▸ **openInViewer**\(\): [Viewer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/viewer-class.md)
+▸ **openInViewer**\(\): [Viewer](after-effects-api/viewer-class.md)
 
 레이어를 엽니다.
 
-**반환:** [Viewer](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/viewer-class.md)
+**반환:** [Viewer](after-effects-api/viewer-class.md)
 
 ### property <a id="property"></a>
 

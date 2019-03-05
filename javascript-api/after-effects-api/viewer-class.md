@@ -4,13 +4,13 @@
 
 ### 속성값
 
-* [active](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/viewer-class.md#active)
-* [maximized](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/viewer-class.md#maximized)
-* [type](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/viewer-class.md#type)
+* [active](after-effects-api/viewer-class.md#active)
+* [maximized](after-effects-api/viewer-class.md#maximized)
+* [type](after-effects-api/viewer-class.md#type)
 
 ### 사용 가능한 함수
 
-* [setActive](https://github.com/AffectScript/affectscript-docs/tree/306de14a6253b187416c39813dcd85cd8989dc14/javascript-api/api/controls/viewer-class.md#setactive)
+* [setActive](after-effects-api/viewer-class.md#setactive)
 
 ## 속성값
 
