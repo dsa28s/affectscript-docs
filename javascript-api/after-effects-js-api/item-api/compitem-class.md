@@ -2,9 +2,13 @@
 
 ## 구조
 
+[Item](item.md)
+
 ↳ [AVItem](avitem-class.md)
 
-**↳ CompItem**
+&nbsp;&nbsp;&nbsp;&nbsp;**↳ CompItem**
+
+&nbsp;&nbsp;&nbsp;&nbsp;↳ [FootageItem](footage-item.md)
 
 ## 목차
 

@@ -2,9 +2,13 @@
 
 ## 구조
 
+[Layer](layer-class.md)
+
 ↳ [AVLayer](avlayer-class.md)
 
-**↳ TextLayer**
+&nbsp;&nbsp;&nbsp;&nbsp;↳ [ShapeLayer](shapelayer-class.md)
+
+&nbsp;&nbsp;&nbsp;&nbsp;**↳ TextLayer**
 
 ## 목차
 

@@ -2,7 +2,7 @@
 
 ## 구조
 
-↳ [Layer](layer-class.md)
+[Layer](layer-class.md)
 
 **↳ CameraLayer**
 

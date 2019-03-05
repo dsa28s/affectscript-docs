@@ -2,13 +2,14 @@
 
 ## 관계
 
-↳ [Item](item-class.md)
+[Item](item-class.md)
 
 **↳ AVItem**
 
-↳ [CompItem](compitem-class.md)
+&nbsp;&nbsp;&nbsp;&nbsp;↳ [CompItem](compitem-class.md)
 
-↳ [FootageItem](footageitem-class.md)
+&nbsp;&nbsp;&nbsp;&nbsp;↳ [FootageItem](footageitem-class.md)
+
 
 ## 목차
 

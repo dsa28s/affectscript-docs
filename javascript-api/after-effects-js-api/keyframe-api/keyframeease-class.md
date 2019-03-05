@@ -1,9 +1,5 @@
 # KeyframeEase 클래스
 
-## 구조
-
-**↳ KeyframeEase**
-
 ## 목차
 
 ### 생성자

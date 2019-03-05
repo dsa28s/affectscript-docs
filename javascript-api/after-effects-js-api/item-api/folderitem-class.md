@@ -2,7 +2,7 @@
 
 ## 구조
 
-↳ [Item](item-class.md)
+[Item](item-class.md)
 
 **↳ FolderItem**
 
