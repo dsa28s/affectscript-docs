@@ -1,11 +1,9 @@
-# 문법
+# JavaScript 문법
 
-  
-해당 페이지에서는 Affect Script의 문법을 다룹니다. _현재 버전은_ `alpha` _버전이기 때문에 일부 문법은 추가될 수도, 변경될 수도 있습니다._
+해당 페이지에서는 JavaScript의 문법을 다룹니다. _(현재 Affect Script 버전은 `0.1` 이며, 해당 버전에서는 JavaScript (After Effects JavaScript API) 만 사용할 수 있습니다.)_
 
-## 기반 언어
 
-Affect Script의 기본 문법의 기초는 `JavaScript` 를 기반으로 설계되었습니다. _일부 문법은_ `JavaScript` _와는 다른 패러다임 일 수도 있습니다._
+> `0.3` 버전 이상부터 Affect Script를 사용할 수 있습니다. `0.3` 버전 릴리즈 이후 Affect Script 문법 문서를 릴리즈 할 예정입니다.
 
 ## Affect Script
 
@@ -20,6 +18,16 @@ After Effects 를 코드로 조작할 수 있으며, 다양한 효과 프리셋 
 `Adobe Extended Toolkit` 과도 호환이 가능하며, 최종소스는 `*.jsx (After Effects Scripting File)` 형태로 컴파일되어 저장됩니다.
 
 코드를 보호하기 위해 `*.jsx` 파일은 난독화 _\(코드를 읽기 어렵게 만드는 작업\)_ 이 기본적으로 적용됩니다.
+
+> `0.3` 버전 이상부터 Affect Script를 사용할 수 있습니다. `0.3` 버전 릴리즈 이후 Affect Script를 사용할 수 있으며, 현재는 `JavaScript` 만 사용할 수 있습니다.
+
+## 기반 언어
+
+Affect Script는 자체적으로 문법을 만든 `모션그래픽 용 스크립트` 언어입니다.
+Affect Script를 실행하면, JavaScript 형태로 변환되어 After Effects에서 실행되게 됩니다.
+
+초반엔 문법을 `TypeScript`, `JavaScript` 기반으로 설계했지만,
+Affect Script의 목적과는 거리가 멀다고 판단하여 자체적으로 문법을 만들게 되었습니다.
 
 ## 문법
 
@@ -342,7 +350,7 @@ function makeComposition(compName, fps) {
 ```javascript
 const keyObject = {
     "이름": "이상훈",
-    "나이": 20,
+    "나이": 21,
     "취미": ["개발", "노래듣기"],
     "언어": [
         {
@@ -352,7 +360,7 @@ const keyObject = {
         {
             "언어이름": "Python",
             "적용한프로젝트": "Affect Script"
-        }    
+        }
     ]
 }
 
@@ -397,36 +405,3 @@ keyObject["언어"][1]["언어이름"]        // Python
   ```javascript
     var a = '가나다라마바사' + '아자차카'     // '가나다라마바사아자차카'
   ```
-
-### 데코레이터
-
-여러가지 작업을 편하게 메소드에 할당할 수 있는 형태를 의미합니다.
-
-```javascript
-@Comp(name="메인 컴포지션", fps=29.97, size="1920x1080")
-var mainComposition // = create composition
-
-// mainComposition은 Composition 객체가 된 것입니다.
-```
-
-데코레이터의 종류는 아래와 같습니다.
-
-```javascript
-@Comp(name, fps, size)
-@Solid(name, color)
-@Shape(name, shapeType)
-@Null(name, linkedAt)
-@Adjustment(name)
-```
-
-### 축약형
-
-축약형은 `자주 사용하는 메소드` 를 문장 형태로 표현한 것을 의미합니다.
-
-```javascript
-@Comp(name="메인 컴포지션", fps=29.97, size="1920x1080")
-var composition = create composition
-
-add composition into mainProject // composition 객체를 mainProject 객체에 추가 > 생성한 컴포지션을 메인 프로젝트에 추가
-```
-
